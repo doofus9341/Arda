@@ -229,22 +229,6 @@ file = "config/WitcheryExtras/asm.cfg"
 hash = "4f4f183950faa6655a8e6618e2273301a5b877449f545e43e47f75853054d0cb"
 
 [[files]]
-file = "config/angelica-compat.cfg"
-hash = "f2f00e6e16febb4b2f134da09d064f4fa7f774fa1d57a9dd603ea9f357d70708"
-
-[[files]]
-file = "config/angelica-modules.cfg"
-hash = "83eec5834ba86645c157f71a4d0a3f176b26a39f5ce3b83d7f022a277d901a41"
-
-[[files]]
-file = "config/angelica-options.json"
-hash = "7515e6e3bfa298ef71dc650b65ba590c6b040a0ec9c2eca6cce51ebab46f20de"
-
-[[files]]
-file = "config/angelica.cfg"
-hash = "46f587fdc99ee49b18e6c3119909b8557c18ba24fe5ebf0bf6d6a408834e140e"
-
-[[files]]
 file = "config/bspkrsCore.cfg"
 hash = "89c1eb7793b385533c6b6cbcd516470f15119c38c48089a56c9f8c421f9d8d72"
 
@@ -289,10 +273,6 @@ file = "config/mixingasm/transformer_inclusion_list_default.txt"
 hash = "e837dc092b502c353910c2ca44befe0965cdb8af28edc15bfe7e5ff8bef6f19c"
 
 [[files]]
-file = "config/notfine/notfine.cfg"
-hash = "e7d32744a499aaf2ce3e476225dd38996101f593f17eadffaa52a369a2dbdf7b"
-
-[[files]]
 file = "config/shaders.properties"
 hash = "07cbfdae3d7d402df0ece61aee378a860345908824b754d1bb80b4bca09f34b4"
 
@@ -329,9 +309,28 @@ file = "config/wizardry.cfg"
 hash = "d8f0e576d8ff59b64d7bafcade16f3818d87653f9b18249e1964ed2824d825e6"
 
 [[files]]
-file = "mods/angelica.pw.toml"
-hash = "5359514fe95770a33e7932077f4091c9fa3c156947f28559117d872cdad8f2f1"
-metafile = true
+file = "journeymap/config/5.2/journeymap.core.config"
+hash = "65d85f0d79285d48e6f61b7a6e3160b0e3a8d82b86635fed025f369795de6c47"
+
+[[files]]
+file = "journeymap/config/5.2/journeymap.fullmap.config"
+hash = "7740a26444ed3a0a7130405aa919ba17602486c2e52873fc18b465f1283842ab"
+
+[[files]]
+file = "journeymap/config/5.2/journeymap.minimap.config"
+hash = "8717fc07dd891dbe605268aaa79093a455505a29348b50ba1e2b430e4acc49d2"
+
+[[files]]
+file = "journeymap/config/5.2/journeymap.minimap2.config"
+hash = "ac76c87ef669fcfca7ceb1025dc126aa853f2544e8905e8adca76dc3b60c4cd4"
+
+[[files]]
+file = "journeymap/config/5.2/journeymap.waypoint.config"
+hash = "434a78c30b233a722e19145b6c0cf261855753fb4b18f2cae01b136e542af0a2"
+
+[[files]]
+file = "journeymap/config/5.2/journeymap.webmap.config"
+hash = "cf13117959ad0d092ef903ede2c2ef451ddf698e4524848c26036bb7ff77bcf3"
 
 [[files]]
 file = "mods/animationapi.pw.toml"
