@@ -1,0 +1,33 @@
+# Each line in this file should either be a comment (starts with '#') or an ordering.
+# Ordering lines are <handler ID>,<ordering number>.
+# Handlers will be sorted in order of number ascending, so smaller numbers first.
+# Any handlers that are missing from this file will be assigned to 0.
+# Negative numbers are fine.
+# If you delete this file, it will be regenerated with all registered handler IDs.
+alkalus.main.nei.NEI_Handler_Cauldron,0
+alkalus.main.nei.NEI_Handler_Distillery,0
+alkalus.main.nei.NEI_Handler_Kettle,0
+alkalus.main.nei.NEI_Handler_Oven,0
+alkalus.main.nei.NEI_Handler_SpinningWheel,0
+codechicken.nei.recipe.BrewingRecipeHandler,0
+codechicken.nei.recipe.FireworkRecipeHandler,0
+codechicken.nei.recipe.FuelRecipeHandler,0
+codechicken.nei.recipe.FurnaceRecipeHandler,0
+codechicken.nei.recipe.InformationHandler,0
+codechicken.nei.recipe.ShapedRecipeHandler,0
+codechicken.nei.recipe.ShapelessRecipeHandler,0
+com.djgiannuzz.thaumcraftneiplugin.nei.recipehandler.ArcaneShapedRecipeHandler,0
+com.djgiannuzz.thaumcraftneiplugin.nei.recipehandler.ArcaneShapelessRecipeHandler,0
+com.djgiannuzz.thaumcraftneiplugin.nei.recipehandler.CrucibleRecipeHandler,0
+com.djgiannuzz.thaumcraftneiplugin.nei.recipehandler.InfusionRecipeHandler,0
+com.emoniph.witchery.integration.NEICauldronRecipeHandler,0
+com.emoniph.witchery.integration.NEIDistilleryRecipeHandler,0
+com.emoniph.witchery.integration.NEIKettleRecipeHandler,0
+com.emoniph.witchery.integration.NEISpinningWheelRecipeHandler,0
+com.emoniph.witchery.integration.NEIWitchesOvenRecipeHandler,0
+lumien.randomthings.Handler.ModCompability.NEI.ImbuingStationRecipeHandler,0
+ru.timeconqueror.tcneiadditions.nei.AspectCombinationHandler,0
+ru.timeconqueror.tcneiadditions.nei.AspectFromItemStackHandler,0
+ru.timeconqueror.tcneiadditions.nei.arcaneworkbench.ArcaneCraftingShapedHandler,0
+tonius.neiintegration.mods.mcforge.RecipeHandlerFluidRegistry,0
+tonius.neiintegration.mods.mcforge.RecipeHandlerOreDictionary,0

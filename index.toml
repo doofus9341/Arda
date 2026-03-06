@@ -1,0 +1,465 @@
+hash-format = "sha256"
+
+[[files]]
+file = "README.md"
+hash = "f12cc163424f9e1e20d42af59893af5091bcd565dda1163e5d7f8a776abd31af"
+
+[[files]]
+file = "config/AM2/AM2.cfg"
+hash = "aad9c9cfb55429554b9ca786aa66ddd30e4ca6719dcff17e32f41d819e5fa240"
+
+[[files]]
+file = "config/AM2/SkillConf.cfg"
+hash = "9fb473598d88b8b6115edf0b669183cb070895438a9114e7848bb6325afdedd9"
+
+[[files]]
+file = "config/AntiIDConflict/biomes/AllIDs.txt"
+hash = "1f077664fbd6587183b9ebaa6d5863f9f441ae7c6b3a0952fc017aba458a94d1"
+
+[[files]]
+file = "config/AntiIDConflict/biomes/avaibleIDs.txt"
+hash = "4c4816e766bf12c2b6c04ae4304f602271493b6d05aef76f5729cae3b6419635"
+
+[[files]]
+file = "config/AntiIDConflict/biomes/conflictedIDs.txt"
+hash = "5cb232e913a83adb53ae2af37447b80ab5afb98137307186690fe43d158782c7"
+
+[[files]]
+file = "config/AntiIDConflict/biomes/main.cfg"
+hash = "9cfff05a6742efe1db7e1e49c6aec772111852220bb548bcb106bcbf20be7f22"
+
+[[files]]
+file = "config/AntiIDConflict/biomes/occupiedIDs.txt"
+hash = "2092b0a2b0abd09815ccea71a83b9dbd38f89c81ccce55691d2ef70b56bd3e06"
+
+[[files]]
+file = "config/AntiIDConflict/dimensions/AllIDs.txt"
+hash = "9823df8bcc7506e0deb9f2684c21a630090d9a96195249debea6f3f92b29d946"
+
+[[files]]
+file = "config/AntiIDConflict/dimensions/avaibleIDs.txt"
+hash = "71eb0f17ed564e2a50247810d5ed773009d42aa359d19578d18eec2b6c6a42a2"
+
+[[files]]
+file = "config/AntiIDConflict/dimensions/main.cfg"
+hash = "97bbcfa8beaecb50690f530283dea81da4edf7eac8d8b65801a98f2dc4546c76"
+
+[[files]]
+file = "config/AntiIDConflict/dimensions/occupiedIDs.txt"
+hash = "dc2cbdbb23a11c21cbcf3e99d9fd01eef20a1180293089c766b070c77801eeb0"
+
+[[files]]
+file = "config/AntiIDConflict/enchantements/AllIDs.txt"
+hash = "0fbc46d79e8379fc19da1f947fb97f2c375cce7d19f135a86101f89c1e23d832"
+
+[[files]]
+file = "config/AntiIDConflict/enchantements/avaibleIDs.txt"
+hash = "4994f431a0327f2f892929c6ed6246adc0ff8bf3ae5a3c3da1832b570050d518"
+
+[[files]]
+file = "config/AntiIDConflict/enchantements/main.cfg"
+hash = "cb371c0d08c662f67972435b7985e8e6ba66acc2119ef10a59034fc67d909cd9"
+
+[[files]]
+file = "config/AntiIDConflict/enchantements/occupiedIDs.txt"
+hash = "40835d16ee0ef1cb3dc6fbc6be5eb6e2c817ef3c96d5a2872ebaf20dda9e5ea1"
+
+[[files]]
+file = "config/AntiIDConflict/entities/AllIDs.txt"
+hash = "3316cce3f3f8988607cf05fb76f3259238ac00c00962d462f6ee38b2412791ad"
+
+[[files]]
+file = "config/AntiIDConflict/entities/avaibleIDs.txt"
+hash = "07570bf51e671c2d08f8aa4712dd54f6e42c2678dc89c61e737b96a7e5b4daa7"
+
+[[files]]
+file = "config/AntiIDConflict/entities/main.cfg"
+hash = "b7c2e5c633d9dd0304ec9126600ccc2c95a2d22f21085f6e45e9a4d3138163ff"
+
+[[files]]
+file = "config/AntiIDConflict/entities/occupiedIDs.txt"
+hash = "7c608ac725ec284c93baf86cd5ddebc923fb5d41010dbcd3600fa09c142687d4"
+
+[[files]]
+file = "config/AntiIDConflict/potions/AllIDs.txt"
+hash = "d9c78c134da4e613e8a731d72469ba5b0cf42d51c8f6e8c067166f4c0382f479"
+
+[[files]]
+file = "config/AntiIDConflict/potions/avaibleIDs.txt"
+hash = "ba1e1c7297cae3084c56f541cd585123ad82e8354a628eeb0ce9d1c9e189a0be"
+
+[[files]]
+file = "config/AntiIDConflict/potions/conflictedIDs.txt"
+hash = "ee8bf08004d25e97d1f66babb4ce3ef8d1d301328f094b483b1ac49a6d3f7a5d"
+
+[[files]]
+file = "config/AntiIDConflict/potions/main.cfg"
+hash = "c4bebc4926d405c5ab60dc41db184d4e2304b6a4dbb348c2b74faba6a82262b2"
+
+[[files]]
+file = "config/AntiIDConflict/potions/occupiedIDs.txt"
+hash = "0ffa4c024e81a210ac0afeb853e252ebda23d19ac9a5359ccfd4a0fd29feb2ce"
+
+[[files]]
+file = "config/Baubles.cfg"
+hash = "f8ae21e18ead5b881c2c71f9229ccf493e3fc863b10442bb7537738b467eca64"
+
+[[files]]
+file = "config/CodeChickenCore.cfg"
+hash = "ef31ec25c4a92a465120159145cebd732e7f462a0dd0930b171bce69ab8d413f"
+
+[[files]]
+file = "config/ComputerCraft.cfg"
+hash = "ab9e453ec7a282991a9405ed34331d9fd378023211454b293d7835441ed36047"
+
+[[files]]
+file = "config/InvTweaks.cfg"
+hash = "4246692399c5d99e7fd07486841174246990c8a600c48758612df0c2539857c9"
+
+[[files]]
+file = "config/InvTweaksRules.txt"
+hash = "0000352266492dce0737a2e841dae5160365d7b56a7fe9a9abb8acab2c5d0827"
+
+[[files]]
+file = "config/InvTweaksTree.txt"
+hash = "cff08041dc5ce51b8d565b238ad9292774a6b34ef5bff22213d18cc37e3b1d5f"
+
+[[files]]
+file = "config/IronChest.cfg"
+hash = "9656badfc321a24449f39d9fae2d6a4aedc5cc8e1c5309158a8eb161b5caf1dc"
+
+[[files]]
+file = "config/JABBA.cfg"
+hash = "3969d3e8ba36b644e812951c2644ccade3012b079a147c0dcc4b2e8ddced1cf4"
+
+[[files]]
+file = "config/LOTR_EntityRegistry.txt"
+hash = "f90351b9198dd83a5377e0347cc351acc5fe1e0301229647cbc07e07a8af7707"
+
+[[files]]
+file = "config/NEI/client.cfg"
+hash = "7877e27a8fa9b7a667df14202efd537926ef81019eb727ffb3a05356438031a3"
+
+[[files]]
+file = "config/NEI/collapsibleitems.cfg"
+hash = "a6503b9b700b62432b58243a8d6452e716e31cdbeff4f8f3fc456c70aa3288b1"
+
+[[files]]
+file = "config/NEI/defaultbookmarkcontainers.cfg"
+hash = "2adf8343d01f4e7831382b71fdc33cf0fc655de95244348e3323c3034650996f"
+
+[[files]]
+file = "config/NEI/enableautofocus.cfg"
+hash = "0e23694895239e786f0f839dd4083c3c34cad26ffd9bb15588c2203cd4c751da"
+
+[[files]]
+file = "config/NEI/guicraftablesblacklist.cfg"
+hash = "b47329de296ff6dcf3c537897f2f55bf0de3ec8689472cebacd09d0512b9b22b"
+
+[[files]]
+file = "config/NEI/guidfilters.cfg"
+hash = "c7b6cf1604a5fee8b969c119b675ac9a8f5964f7d92f86fdb7388233c70de430"
+
+[[files]]
+file = "config/NEI/handlerordering.csv"
+hash = "5cf8741dbaaa47d4e9713d1b4bea211c9dfe9cf78fbd387f8989ca92e67edaaf"
+
+[[files]]
+file = "config/NEI/handlers.patch"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/NEI/heighthackhandlers.cfg"
+hash = "2560cd0bd26aced21edf8cd2612609aefcbdc53e1a09157c326ce5a67aef70ab"
+
+[[files]]
+file = "config/NEI/hiddenhandlers.cfg"
+hash = "057f9263c3620365798f589e124e590cd82e7bd585f0ee3efa6b51ab66eecdbb"
+
+[[files]]
+file = "config/NEI/hiddenitems.cfg"
+hash = "427c281d13a70b9f69bd512d8be5e16a6cdf1f6dcf783af000b0a8d862f372e1"
+
+[[files]]
+file = "config/NEI/informationpages.cfg"
+hash = "5c2af186f031743b8adb60cf0e7d5782b7a0a75a69858c8b7324f439c6cbb4fe"
+
+[[files]]
+file = "config/NEI/serialhandlers.cfg"
+hash = "fdb82ae74e096148cde7eed130e9180914db698b3364be2fc760d329a2ad340b"
+
+[[files]]
+file = "config/NEID.cfg"
+hash = "79dc2fcfa7f62444924bb66466aa3777ec8908acc143324ea799345826c12df9"
+
+[[files]]
+file = "config/RandomThings.cfg"
+hash = "565f4dce2d6bfc9e220e39b7c741d24f17328da2fea0b0253964f58b296f7e7c"
+
+[[files]]
+file = "config/SlimeKnights/Mantle.cfg"
+hash = "5398805edaa37184a5a2c0f9d7079f90e2b83fe1b39f1439908d4f9344734256"
+
+[[files]]
+file = "config/Thaumcraft.cfg"
+hash = "4fbdbaa09a21e2a134bd829a29cdf7ecf4a29791961a9980b24cd6bdf508bae6"
+
+[[files]]
+file = "config/TinkersConstruct.cfg"
+hash = "9080bc6ff743b1818bebb7d412bf0e266314819b232e4a5dff8ee2ac5649759e"
+
+[[files]]
+file = "config/TinkersModules.cfg"
+hash = "fcb6b643f3645f5938a4b5c7b0d8e3a3e0e3299c432ee494bbc0e6fbf35dc253"
+
+[[files]]
+file = "config/Treecapitator.cfg"
+hash = "05153533afec0f857adc2c527d95172080d232a651e0600ca578ca24c07fa0fb"
+
+[[files]]
+file = "config/Waila.cfg"
+hash = "4fe3375ad09b98b2f5c01282dac968ca1a694f6609b790289dece884f423b0a8"
+
+[[files]]
+file = "config/WitcheryExtras/asm.cfg"
+hash = "4f4f183950faa6655a8e6618e2273301a5b877449f545e43e47f75853054d0cb"
+
+[[files]]
+file = "config/angelica-compat.cfg"
+hash = "f2f00e6e16febb4b2f134da09d064f4fa7f774fa1d57a9dd603ea9f357d70708"
+
+[[files]]
+file = "config/angelica-modules.cfg"
+hash = "83eec5834ba86645c157f71a4d0a3f176b26a39f5ce3b83d7f022a277d901a41"
+
+[[files]]
+file = "config/angelica-options.json"
+hash = "7515e6e3bfa298ef71dc650b65ba590c6b040a0ec9c2eca6cce51ebab46f20de"
+
+[[files]]
+file = "config/angelica.cfg"
+hash = "46f587fdc99ee49b18e6c3119909b8557c18ba24fe5ebf0bf6d6a408834e140e"
+
+[[files]]
+file = "config/bspkrsCore.cfg"
+hash = "89c1eb7793b385533c6b6cbcd516470f15119c38c48089a56c9f8c421f9d8d72"
+
+[[files]]
+file = "config/chisel.cfg"
+hash = "566fe6966f0c4bed175a1a46042ef693db45995e8143d973b1febb3fa4b9f180"
+
+[[files]]
+file = "config/forge.cfg"
+hash = "56acf28c2653e1d5d159648edbbbd9bc86832bd956a8a4e7be7adf7c558a5c7e"
+
+[[files]]
+file = "config/forgeChunkLoading.cfg"
+hash = "ef4ca42f2810a1b5fef2d14fed9d7ef0bb5e1751b71966ec5c0e08addf3479f5"
+
+[[files]]
+file = "config/gtnhlib-number-formatting.cfg"
+hash = "dba677d2c31c2a72fda676cdf04aec4cd50f250fe43b7a1eb57753b1bfdb5c5c"
+
+[[files]]
+file = "config/gtnhlib.cfg"
+hash = "ff04840c5f3b1c74b11cab3cdf259e64d27505831837736d14df5a7a30f80921"
+
+[[files]]
+file = "config/lotr.cfg"
+hash = "eb458cbe657380d8dcd76686bf813d6369157af5c33484f7571c79c0015d5c2e"
+
+[[files]]
+file = "config/mcpatcherforge.cfg"
+hash = "e961e8e09faf94cf330106f7fbe02a73d0151554ad17bb63c0c6f2d70f5c502a"
+
+[[files]]
+file = "config/mixingasm/transformer_exclusion_list.txt"
+hash = "261c3c0fd863923371aad3676766d81c0bfc2a527b88e479166dfd59efaed3af"
+
+[[files]]
+file = "config/mixingasm/transformer_inclusion_list.txt"
+hash = "9b747b0e71125a99a70237f549d3c275e2fb3dc5c1e74b426992fd4cc5fc6b75"
+
+[[files]]
+file = "config/mixingasm/transformer_inclusion_list_default.txt"
+hash = "e837dc092b502c353910c2ca44befe0965cdb8af28edc15bfe7e5ff8bef6f19c"
+
+[[files]]
+file = "config/notfine/notfine.cfg"
+hash = "e7d32744a499aaf2ce3e476225dd38996101f593f17eadffaa52a369a2dbdf7b"
+
+[[files]]
+file = "config/shaders.properties"
+hash = "07cbfdae3d7d402df0ece61aee378a860345908824b754d1bb80b4bca09f34b4"
+
+[[files]]
+file = "config/splash.properties"
+hash = "34b4aeb750be9b09739a089402a289c1b8241c45e38a33604cf0c2f2f45d7e8e"
+
+[[files]]
+file = "config/unimixins.properties"
+hash = "d0b91df4f9fc689f63a93c0b10abdf05964303d10020b1db9dd8d8eaa886003b"
+
+[[files]]
+file = "config/veinminer/general.cfg"
+hash = "c3a9b19fc54d57554028ffc76f2c96b2b75fc36a605bf3a9e5c8b50e12a899ea"
+
+[[files]]
+file = "config/veinminer/modSupport.cfg"
+hash = "a48b6edfb46c0a08b88ad7f9178f557ebb294cb9d2c7a1e12bbf4a96452abad7"
+
+[[files]]
+file = "config/veinminer/tools-and-blocks.json"
+hash = "22b969d55d585fb27e2ae1f6c1abd0edb07a10f621e65c8c97bb6153c2db8824"
+
+[[files]]
+file = "config/witchery.cfg"
+hash = "62092ffe8f380a693882b43bfe9cd02bdd9e8356e1eb9786fb9c0fa18b30c1ac"
+
+[[files]]
+file = "config/witchery_debug.cfg"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/wizardry.cfg"
+hash = "d8f0e576d8ff59b64d7bafcade16f3818d87653f9b18249e1964ed2824d825e6"
+
+[[files]]
+file = "mods/angelica.pw.toml"
+hash = "8ce662198501bb8557af91d7247c12fd09e1ecc577daa4bc081e4990f89f5304"
+metafile = true
+
+[[files]]
+file = "mods/animationapi.pw.toml"
+hash = "1edf752e47a1f57428d222bb9d461a89dd1adfb397d769cd605a67698282e534"
+metafile = true
+
+[[files]]
+file = "mods/anti-id-conflict.pw.toml"
+hash = "470f5f965e1777fbeaad498d184ca09701dfcdec23621dcc6c60f4edf3a2bffd"
+metafile = true
+
+[[files]]
+file = "mods/ars-magica-2.pw.toml"
+hash = "7cfa8bfdd183fccea0bb433d85fa0fd0973afedd4c011aa931f2cc3617c54f53"
+metafile = true
+
+[[files]]
+file = "mods/baubles.pw.toml"
+hash = "dcaa054cc8de3b6b10f4e7b35b1079e90983765348559761b0d357f8f5177856"
+metafile = true
+
+[[files]]
+file = "mods/bspkrscore.pw.toml"
+hash = "4f817806167f7b13e933b98928a698b9db0a8337af286d03c98ea13a8662a7b8"
+metafile = true
+
+[[files]]
+file = "mods/chisel.pw.toml"
+hash = "e05e261e4b7eae159f1deff4b9b436bcdfab8ee9f875d6dcf7f44764c136ea09"
+metafile = true
+
+[[files]]
+file = "mods/codechickencore-unofficial.pw.toml"
+hash = "bb0a6ef41c259388dd19ca7e6528284920370bf86e8d95e941eff8643e99209d"
+metafile = true
+
+[[files]]
+file = "mods/computercraft.pw.toml"
+hash = "a6d69db5937964e1b895382deb25b9dcd500cf48e78debf3a5b279556a6d7f24"
+metafile = true
+
+[[files]]
+file = "mods/electroblobs-wizardry.pw.toml"
+hash = "57c1070e9dd0f5576e4cdc1bb5bea593991de6a54b044ef793315d5c2f1c0f6d"
+metafile = true
+
+[[files]]
+file = "mods/gtnhlib.pw.toml"
+hash = "516ddb8066ff8a56c2dee5fd8321549a37fc5c83fab6780c898b4ebf1f27f246"
+metafile = true
+
+[[files]]
+file = "mods/inventory-tweaks.pw.toml"
+hash = "61744ee5386e2a558cc599cb04a1f9f5938c4aba72260614c67ff746c753668b"
+metafile = true
+
+[[files]]
+file = "mods/iron-chests.pw.toml"
+hash = "9fdb47ec551d7019502d5c94dee80b3f45361cf2df6070fe93476513d1f1cefe"
+metafile = true
+
+[[files]]
+file = "mods/jabba.pw.toml"
+hash = "83833eaa0e5d4e07daad73dbe8c3d0cef3785c8fdd87089a563dc768247ea5d9"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.pw.toml"
+hash = "b9d8d5fe7ffcae44789420fc91cf07c291d12b4d1a4cb111792bfc24c3c5c5ac"
+metafile = true
+
+[[files]]
+file = "mods/mantle.pw.toml"
+hash = "53c2f406ff57d75dfa543e622ebffa8a803d407553f99be40de53649fec1f4e0"
+metafile = true
+
+[[files]]
+file = "mods/notenoughids-unofficial-1-7-10.pw.toml"
+hash = "43b6a1bc89728fb35fd5ec2027949d9bcbcfefdb8cc4758b49dcf92fe82ff74d"
+metafile = true
+
+[[files]]
+file = "mods/notenoughitems-gtnh.pw.toml"
+hash = "82b27b9c3c7a27ff39954ef2a2e1ba965372c03907297530c7551d1afde55495"
+metafile = true
+
+[[files]]
+file = "mods/random-things.pw.toml"
+hash = "f29717f7ce683382cdf389d88b8a5700ef3573f708a2c7a24a52d40b1c22c505"
+metafile = true
+
+[[files]]
+file = "mods/thaumcraft.pw.toml"
+hash = "f0b23db33db035ffb866e3f09a39dc7019a0de90fe32069bbc48df2ad9dc1a68"
+metafile = true
+
+[[files]]
+file = "mods/the-lord-of-the-rings-mod-legacy.pw.toml"
+hash = "6bfdc1e1a9accd2d93a1eae08abd57683682e148e92dfcdff4199559bf33f0b5"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-construct.pw.toml"
+hash = "1f6caf1cab0746b0257bef0d6a04ffa695dc84b0f94e5989979b0ff0404fd6cf"
+metafile = true
+
+[[files]]
+file = "mods/treecapitator.pw.toml"
+hash = "548becfe83371f2af2a3eb0918ac4f8a19e82a3f16c316ed11382b6caa807440"
+metafile = true
+
+[[files]]
+file = "mods/unimixins.pw.toml"
+hash = "cc8898129ee51fd830b4d0675966d6893bf082864ab70126f06d4cd159112158"
+metafile = true
+
+[[files]]
+file = "mods/veinminer.pw.toml"
+hash = "693902f20021192671f635f8462e44d1d3e2ca50ac7a92b9a2f01fc03fa704ba"
+metafile = true
+
+[[files]]
+file = "mods/waila.pw.toml"
+hash = "1ce389a8d9488dd7d37490c1498d10412b7430b18cc0faa28f47afc9cf896b57"
+metafile = true
+
+[[files]]
+file = "mods/witchery.pw.toml"
+hash = "470e898ee9d795438bed629c7e5de4ae4d6eb608a685818d3c5460aa7b37a294"
+metafile = true
+
+[[files]]
+file = "mods/witcheryextras.pw.toml"
+hash = "cf5fc57e6acba9033e3c669832e0610c9161840f577729381a1ef0487ec9cd8b"
+metafile = true

@@ -1,0 +1,13 @@
+name = "The Lord of the Rings Mod: Legacy"
+filename = "LOTRMod v36.15.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6c20c3dd086ab9b125a4a1bc1fdff855c0c9a2e1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4091561
+project-id = 423748

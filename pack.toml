@@ -1,0 +1,13 @@
+name = "Arda"
+author = "Taffer, Roboat et al."
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "6fb0cd075b2a15e2a1d52d2530a6d0c96882b63a88dac4a5c0e14e3ccf499f67"
+
+[versions]
+forge = "10.13.4.1614"
+minecraft = "1.7.10"

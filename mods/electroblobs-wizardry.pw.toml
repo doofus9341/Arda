@@ -1,0 +1,13 @@
+name = "Electroblob's Wizardry"
+filename = "Electroblob's Wizardry - 1.1.6 - MC 1.7.10.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1e25ad2d5a6bae400495cd8200493d23d4c3354b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3866179
+project-id = 265642

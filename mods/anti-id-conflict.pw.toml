@@ -1,0 +1,13 @@
+name = "Anti Id Conflict"
+filename = "AntiIdConflict-1.3.5-1.7.10.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b8f42525e8d477e137a2bdc1a10daa03406c7b92"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2308279
+project-id = 246288
