@@ -1,8 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
+file = "LICENSE"
+hash = "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499"
+
+[[files]]
 file = "README.md"
-hash = "f12cc163424f9e1e20d42af59893af5091bcd565dda1163e5d7f8a776abd31af"
+hash = "40e057232b232a006faa6c0548713d4a39e3041e9d230f9fb7849ce2fd694b42"
 
 [[files]]
 file = "config/AM2/AM2.cfg"

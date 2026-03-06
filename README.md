@@ -10,7 +10,7 @@ A *MINIMUM* of **6 GB** of RAM allocated is required for this modpack, however *
 
 The modpack zip is a Prism Launcher instance pre-configured with [packwiz-installer-bootstrap](https://github.com/packwiz/packwiz-installer-bootstrap).
 It is configured to run a Pre-launch command that will automatically download all required mods and config files, as well as update the modpack instance automatically.
-The command it runs is `"$INST_JAVA" -jar packwiz-installer-bootstrap.jar https://doofus9341.github.io/arda/pack.toml` which will pull packwiz information from this repos Github Pages.
+The command it runs is `"$INST_JAVA" -jar packwiz-installer-bootstrap.jar https://doofus9341.github.io/Arda/pack.toml` which will pull packwiz information from this repos Github Pages.
 
 ## Installation
 [Prism Launcher](https://prismlauncher.org/) is required to import and install this modpack.
