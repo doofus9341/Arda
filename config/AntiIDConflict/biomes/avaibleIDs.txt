@@ -1,4 +1,4 @@
-Total amount of free biome ids: C:\Users\Keiran Sterling\AppData\Roaming\PrismLauncher\instances\lotrpack\minecraft\config\AntiIDConflict\biomes\avaibleIDs.txt
+Total amount of free biome ids: C:\Users\Keiran Sterling\AppData\Roaming\PrismLauncher\instances\Arda Testing\minecraft\config\AntiIDConflict\biomes\avaibleIDs.txt
 List of free biome ids:
 40
 41

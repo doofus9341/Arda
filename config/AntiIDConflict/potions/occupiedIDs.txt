@@ -1,4 +1,4 @@
-Total amount of occupied potion ids: 112
+Total amount of occupied potion ids: 118
 Table of occupied potion ids and their owners
 id:name(class)
 1 : potion.moveSpeed (net.minecraft.potion.Potion)
@@ -113,3 +113,9 @@ id:name(class)
 116 : witchery:potion.wolfsbane (com.emoniph.witchery.brewing.potions.PotionBase)
 117 : witchery:potion.worship (com.emoniph.witchery.brewing.potions.PotionWorship)
 118 : witchery:potion.wrappedinvine (com.emoniph.witchery.brewing.potions.PotionWrappedInVine)
+119 : potion.binding (flaxbeard.thaumicexploration.misc.TXPotion)
+120 : potion.taintWithdrawl (flaxbeard.thaumicexploration.misc.TXTaintPotion)
+121 : Air Imbued (thaumic.tinkerer.common.potion.DummyPotions)
+122 : Earth Imbued (thaumic.tinkerer.common.potion.DummyPotions)
+123 : Fire Imbued (thaumic.tinkerer.common.potion.DummyPotions)
+124 : Water Imbued (thaumic.tinkerer.common.potion.DummyPotions)

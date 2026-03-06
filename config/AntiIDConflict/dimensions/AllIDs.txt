@@ -79,7 +79,7 @@
 -22 is Avaible
 -21 is Avaible
 -20 is Avaible
--19 is Avaible
+-19 is Occupied by: Bedrock, Provider: (id: -19, class: class thaumic.tinkerer.common.dim.WorldProviderBedrock)
 -18 is Avaible
 -17 is Avaible
 -16 is Avaible

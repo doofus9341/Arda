@@ -22,7 +22,7 @@ hash = "1f077664fbd6587183b9ebaa6d5863f9f441ae7c6b3a0952fc017aba458a94d1"
 
 [[files]]
 file = "config/AntiIDConflict/biomes/avaibleIDs.txt"
-hash = "4c4816e766bf12c2b6c04ae4304f602271493b6d05aef76f5729cae3b6419635"
+hash = "3dcd77d09473938d7f05a196b82b6b74da22aef7dbfe2daa6569b91f02fa0c15"
 
 [[files]]
 file = "config/AntiIDConflict/biomes/conflictedIDs.txt"
@@ -38,11 +38,11 @@ hash = "2092b0a2b0abd09815ccea71a83b9dbd38f89c81ccce55691d2ef70b56bd3e06"
 
 [[files]]
 file = "config/AntiIDConflict/dimensions/AllIDs.txt"
-hash = "9823df8bcc7506e0deb9f2684c21a630090d9a96195249debea6f3f92b29d946"
+hash = "a1c2cc22acb2a6471e3da5eb554a19d989978cd00c57bbbb258e3865ef3f4ca6"
 
 [[files]]
 file = "config/AntiIDConflict/dimensions/avaibleIDs.txt"
-hash = "71eb0f17ed564e2a50247810d5ed773009d42aa359d19578d18eec2b6c6a42a2"
+hash = "2815303ac6dfb3a7e52b1b503035d013664835ba1eda3eaf287be53f664ffc5c"
 
 [[files]]
 file = "config/AntiIDConflict/dimensions/main.cfg"
@@ -50,15 +50,15 @@ hash = "97bbcfa8beaecb50690f530283dea81da4edf7eac8d8b65801a98f2dc4546c76"
 
 [[files]]
 file = "config/AntiIDConflict/dimensions/occupiedIDs.txt"
-hash = "dc2cbdbb23a11c21cbcf3e99d9fd01eef20a1180293089c766b070c77801eeb0"
+hash = "d9fdbfc6801ab54525ed39bc5353f3e0a60465c4272ad9f0a0030d7d869960de"
 
 [[files]]
 file = "config/AntiIDConflict/enchantements/AllIDs.txt"
-hash = "0fbc46d79e8379fc19da1f947fb97f2c375cce7d19f135a86101f89c1e23d832"
+hash = "c3c21747e073d839611c61de411f13b8af9fd2687679afb66c175272ab1a3d69"
 
 [[files]]
 file = "config/AntiIDConflict/enchantements/avaibleIDs.txt"
-hash = "4994f431a0327f2f892929c6ed6246adc0ff8bf3ae5a3c3da1832b570050d518"
+hash = "ca8567b1becf714ff54b2d1f784eb476e90a326e52e7b533051135fe6fefee3c"
 
 [[files]]
 file = "config/AntiIDConflict/enchantements/main.cfg"
@@ -66,7 +66,7 @@ hash = "cb371c0d08c662f67972435b7985e8e6ba66acc2119ef10a59034fc67d909cd9"
 
 [[files]]
 file = "config/AntiIDConflict/enchantements/occupiedIDs.txt"
-hash = "40835d16ee0ef1cb3dc6fbc6be5eb6e2c817ef3c96d5a2872ebaf20dda9e5ea1"
+hash = "366775ff2f941afb46fdecdac8ee57bc30749cb0ad469c52cade0c3901046ea7"
 
 [[files]]
 file = "config/AntiIDConflict/entities/AllIDs.txt"
@@ -86,11 +86,11 @@ hash = "7c608ac725ec284c93baf86cd5ddebc923fb5d41010dbcd3600fa09c142687d4"
 
 [[files]]
 file = "config/AntiIDConflict/potions/AllIDs.txt"
-hash = "d9c78c134da4e613e8a731d72469ba5b0cf42d51c8f6e8c067166f4c0382f479"
+hash = "8d0324f0041cd44171e0ca141ee78620d824c6aec35258b87034a855e39fac69"
 
 [[files]]
 file = "config/AntiIDConflict/potions/avaibleIDs.txt"
-hash = "ba1e1c7297cae3084c56f541cd585123ad82e8354a628eeb0ce9d1c9e189a0be"
+hash = "b8451cef5dc9367a8df7432900280f653d6640d8ba58f4f6291b227fe884e013"
 
 [[files]]
 file = "config/AntiIDConflict/potions/conflictedIDs.txt"
@@ -102,7 +102,7 @@ hash = "c4bebc4926d405c5ab60dc41db184d4e2304b6a4dbb348c2b74faba6a82262b2"
 
 [[files]]
 file = "config/AntiIDConflict/potions/occupiedIDs.txt"
-hash = "0ffa4c024e81a210ac0afeb853e252ebda23d19ac9a5359ccfd4a0fd29feb2ce"
+hash = "1677a6b7b33067e08de140c480c1496a5feff6bc19110e107830e50d01ac339b"
 
 [[files]]
 file = "config/Baubles.cfg"
@@ -198,7 +198,7 @@ hash = "79dc2fcfa7f62444924bb66466aa3777ec8908acc143324ea799345826c12df9"
 
 [[files]]
 file = "config/RandomThings.cfg"
-hash = "565f4dce2d6bfc9e220e39b7c741d24f17328da2fea0b0253964f58b296f7e7c"
+hash = "39e981e5db7ae686dabe2793ab9ff29a10c59d92d74bfed8bc59cc08dde8624f"
 
 [[files]]
 file = "config/SlimeKnights/Mantle.cfg"
@@ -207,6 +207,14 @@ hash = "5398805edaa37184a5a2c0f9d7079f90e2b83fe1b39f1439908d4f9344734256"
 [[files]]
 file = "config/Thaumcraft.cfg"
 hash = "4fbdbaa09a21e2a134bd829a29cdf7ecf4a29791961a9980b24cd6bdf508bae6"
+
+[[files]]
+file = "config/ThaumicExploration.cfg"
+hash = "71c8e8e0cb02b6a8dedb495f8e446a16690a100ae923ca50115a6076fffb6bd9"
+
+[[files]]
+file = "config/ThaumicTinkerer.cfg"
+hash = "76bbb5048eff4019b99cb4a4fb6554d7447764ce0889df709de44763e9691184"
 
 [[files]]
 file = "config/TinkersConstruct.cfg"
@@ -219,6 +227,10 @@ hash = "fcb6b643f3645f5938a4b5c7b0d8e3a3e0e3299c432ee494bbc0e6fbf35dc253"
 [[files]]
 file = "config/Treecapitator.cfg"
 hash = "05153533afec0f857adc2c527d95172080d232a651e0600ca578ca24c07fa0fb"
+
+[[files]]
+file = "config/UniqueNames.txt"
+hash = "e0d3170252cc75c3e1ec8f712625731b4ba6e186289b7db5dfc48f01cb6f0f8e"
 
 [[files]]
 file = "config/Waila.cfg"
@@ -279,6 +291,10 @@ hash = "07cbfdae3d7d402df0ece61aee378a860345908824b754d1bb80b4bca09f34b4"
 [[files]]
 file = "config/splash.properties"
 hash = "34b4aeb750be9b09739a089402a289c1b8241c45e38a33604cf0c2f2f45d7e8e"
+
+[[files]]
+file = "config/tc4tweak.cfg"
+hash = "dcea8706d7686d91b70aa6950cc8ab5d7db0239ee564e7f2836fd930603ffddf"
 
 [[files]]
 file = "config/unimixins.properties"
@@ -423,8 +439,28 @@ hash = "f29717f7ce683382cdf389d88b8a5700ef3573f708a2c7a24a52d40b1c22c505"
 metafile = true
 
 [[files]]
+file = "mods/tc4tweaks.pw.toml"
+hash = "3b5ab4a0d072888afb084cade9cbff4e21fd18df7053a3f1ee81c8bc05443d7f"
+metafile = true
+
+[[files]]
+file = "mods/thaumcraft-inventory-scanning.pw.toml"
+hash = "143713d7d920db4f018fd9f1bc71f183822cbd06009cac5e8878e7d922e7c1fa"
+metafile = true
+
+[[files]]
 file = "mods/thaumcraft.pw.toml"
 hash = "f0b23db33db035ffb866e3f09a39dc7019a0de90fe32069bbc48df2ad9dc1a68"
+metafile = true
+
+[[files]]
+file = "mods/thaumic-exploration.pw.toml"
+hash = "eb840456a5e68373c1c60b8542aac28dfdc9c0ca5768b978017576c976b03ecf"
+metafile = true
+
+[[files]]
+file = "mods/thaumictinkerer.pw.toml"
+hash = "dab50e7d090dde1457b8f2c7d0284a48d93251c84a45cd6a3c37073f16e231c2"
 metafile = true
 
 [[files]]

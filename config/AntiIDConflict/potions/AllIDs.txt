@@ -1,5 +1,5 @@
-Total amount of free potion ids: 240
-Total amount of occupied potion ids: 112
+Total amount of free potion ids: 234
+Total amount of occupied potion ids: 118
 Total amount of conflicted potion ids: 0
 All ids and their position:
 0 is Avaible
@@ -121,12 +121,12 @@ All ids and their position:
 116 is Occupied by witchery:potion.wolfsbane (com.emoniph.witchery.brewing.potions.PotionBase)
 117 is Occupied by witchery:potion.worship (com.emoniph.witchery.brewing.potions.PotionWorship)
 118 is Occupied by witchery:potion.wrappedinvine (com.emoniph.witchery.brewing.potions.PotionWrappedInVine)
-119 is Avaible
-120 is Avaible
-121 is Avaible
-122 is Avaible
-123 is Avaible
-124 is Avaible
+119 is Occupied by potion.binding (flaxbeard.thaumicexploration.misc.TXPotion)
+120 is Occupied by potion.taintWithdrawl (flaxbeard.thaumicexploration.misc.TXTaintPotion)
+121 is Occupied by Air Imbued (thaumic.tinkerer.common.potion.DummyPotions)
+122 is Occupied by Earth Imbued (thaumic.tinkerer.common.potion.DummyPotions)
+123 is Occupied by Fire Imbued (thaumic.tinkerer.common.potion.DummyPotions)
+124 is Occupied by Water Imbued (thaumic.tinkerer.common.potion.DummyPotions)
 125 is Avaible
 126 is Avaible
 127 is Avaible

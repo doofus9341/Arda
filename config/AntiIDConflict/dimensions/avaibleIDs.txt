@@ -76,7 +76,6 @@ List of avaible dimension ids:
 -22
 -21
 -20
--19
 -18
 -17
 -16

@@ -75,9 +75,9 @@
 74 is Avaible
 75 is Avaible
 76 is Avaible
-77 is Avaible
-78 is Avaible
-79 is Avaible
+77 is Occupied by: enchantment.binding (flaxbeard.thaumicexploration.enchantment.EnchantmentBinding)
+78 is Occupied by: enchantment.nightVision (flaxbeard.thaumicexploration.enchantment.EnchantmentNightVision)
+79 is Occupied by: enchantment.disarm (flaxbeard.thaumicexploration.enchantment.EnchantmentDisarm)
 80 is Avaible
 81 is Avaible
 82 is Avaible
@@ -164,14 +164,14 @@
 163 is Avaible
 164 is Avaible
 165 is Avaible
-166 is Avaible
-167 is Avaible
-168 is Avaible
-169 is Avaible
-170 is Avaible
-171 is Avaible
-172 is Avaible
-173 is Avaible
+166 is Occupied by: enchantment.ttinkerer:dispersedStrike (thaumic.tinkerer.common.enchantment.EnchantmentDispersedStrikes)
+167 is Occupied by: enchantment.ttinkerer:shatter (thaumic.tinkerer.common.enchantment.EnchantmentShatter)
+168 is Occupied by: enchantment.ttinkerer:finalStrike (thaumic.tinkerer.common.enchantment.EnchantmentFinalStrike)
+169 is Occupied by: enchantment.ttinkerer:focusedStrike (thaumic.tinkerer.common.enchantment.EnchantmentFocusedStrikes)
+170 is Occupied by: enchantment.ttinkerer:pounce (thaumic.tinkerer.common.enchantment.EnchantmentPounce)
+171 is Occupied by: enchantment.ttinkerer:shockwave (thaumic.tinkerer.common.enchantment.EnchantmentShockwave)
+172 is Occupied by: enchantment.ttinkerer:tunnel (thaumic.tinkerer.common.enchantment.EnchantmentTunnel)
+173 is Occupied by: enchantment.ttinkerer:valiance (thaumic.tinkerer.common.enchantment.EnchantmentValiance)
 174 is Avaible
 175 is Avaible
 176 is Avaible
@@ -218,12 +218,12 @@
 217 is Avaible
 218 is Avaible
 219 is Avaible
-220 is Avaible
-221 is Avaible
-222 is Avaible
-223 is Avaible
-224 is Avaible
-225 is Avaible
+220 is Occupied by: enchantment.ttinkerer:ascentBoost (thaumic.tinkerer.common.enchantment.EnchantmentAscentBoost)
+221 is Occupied by: enchantment.ttinkerer:slowFall (thaumic.tinkerer.common.enchantment.EnchantmentSlowFall)
+222 is Occupied by: enchantment.ttinkerer:autoSmelt (thaumic.tinkerer.common.enchantment.EnchantmentAutoSmelt)
+223 is Occupied by: enchantment.ttinkerer:desintegrate (thaumic.tinkerer.common.enchantment.EnchantmentDesintegrate)
+224 is Occupied by: enchantment.ttinkerer:quickDraw (thaumic.tinkerer.common.enchantment.EnchantmentQuickDraw)
+225 is Occupied by: enchantment.ttinkerer:vampirism (thaumic.tinkerer.common.enchantment.EnchantmentVampirism)
 226 is Avaible
 227 is Avaible
 228 is Avaible
