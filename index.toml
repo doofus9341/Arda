@@ -105,6 +105,10 @@ file = "config/AntiIDConflict/potions/occupiedIDs.txt"
 hash = "1677a6b7b33067e08de140c480c1496a5feff6bc19110e107830e50d01ac339b"
 
 [[files]]
+file = "config/Backpack.cfg"
+hash = "beab2d422256337858def2afa13903a09ed6c1d04327f25307632edbf6843de6"
+
+[[files]]
 file = "config/Baubles.cfg"
 hash = "f8ae21e18ead5b881c2c71f9229ccf493e3fc863b10442bb7537738b467eca64"
 
@@ -394,8 +398,18 @@ hash = "57c1070e9dd0f5576e4cdc1bb5bea593991de6a54b044ef793315d5c2f1c0f6d"
 metafile = true
 
 [[files]]
+file = "mods/forge-backpacks.pw.toml"
+hash = "12159b39a053a12e5781af4ac1f4967b26b0107c9a006f0a553a00bf6f70fd18"
+metafile = true
+
+[[files]]
 file = "mods/gtnhlib.pw.toml"
 hash = "516ddb8066ff8a56c2dee5fd8321549a37fc5c83fab6780c898b4ebf1f27f246"
+metafile = true
+
+[[files]]
+file = "mods/helpfixer.pw.toml"
+hash = "3378c7d035fd6cc8bbf2eb6e07078022baf760684003d17453e0e77d5ec6187e"
 metafile = true
 
 [[files]]
