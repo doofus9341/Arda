@@ -145,8 +145,16 @@ file = "config/LOTR_EntityRegistry.txt"
 hash = "f90351b9198dd83a5377e0347cc351acc5fe1e0301229647cbc07e07a8af7707"
 
 [[files]]
+file = "config/MineTweaker3.cfg"
+hash = "c92da1657e9c5552c602a65625ab5df36e11d59847eef8d44eefd4e4c9aff1f5"
+
+[[files]]
+file = "config/MouseTweaks.cfg"
+hash = "657be07f3297867af2e5c764e8536f35c76b734463ce72b8cbe2a7828505c66d"
+
+[[files]]
 file = "config/NEI/client.cfg"
-hash = "7877e27a8fa9b7a667df14202efd537926ef81019eb727ffb3a05356438031a3"
+hash = "ffdb016efd1a3624bde83e113df9c969d1979e58db80523e461798405b41eaf6"
 
 [[files]]
 file = "config/NEI/collapsibleitems.cfg"
@@ -393,6 +401,11 @@ hash = "a6d69db5937964e1b895382deb25b9dcd500cf48e78debf3a5b279556a6d7f24"
 metafile = true
 
 [[files]]
+file = "mods/crafttweaker.pw.toml"
+hash = "031ba1af350f68756133650c3e70fb1273c15667b06e9438b0b4495ccba9dbd6"
+metafile = true
+
+[[files]]
 file = "mods/electroblobs-wizardry.pw.toml"
 hash = "57c1070e9dd0f5576e4cdc1bb5bea593991de6a54b044ef793315d5c2f1c0f6d"
 metafile = true
@@ -435,6 +448,16 @@ metafile = true
 [[files]]
 file = "mods/mantle.pw.toml"
 hash = "53c2f406ff57d75dfa543e622ebffa8a803d407553f99be40de53649fec1f4e0"
+metafile = true
+
+[[files]]
+file = "mods/minetweaker-recipemaker.pw.toml"
+hash = "4daccaa1d6308827ee6cae0bdb73accd081611c9431e69877a542bc07e75f13f"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "c849632fd2348967eb369eaecd93f65de371cd9110650f828f995a4929166ae3"
 metafile = true
 
 [[files]]

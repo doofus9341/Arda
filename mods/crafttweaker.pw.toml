@@ -1,0 +1,15 @@
+name = "CraftTweaker"
+filename = "CraftTweaker-3.4.2.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/CraftTweaker/releases/download/3.4.2/CraftTweaker-3.4.2.jar"
+hash-format = "sha256"
+hash = "45fd07248bb25976b59b1a06efdd2c6d9c095d44be44528b489dfbca67a67471"
+
+[update]
+[update.github]
+branch = "master"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "GTNewHorizons/CraftTweaker"
+tag = "3.4.2"
