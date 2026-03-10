@@ -392,7 +392,7 @@ metafile = true
 
 [[files]]
 file = "mods/codechickencore-unofficial.pw.toml"
-hash = "bb0a6ef41c259388dd19ca7e6528284920370bf86e8d95e941eff8643e99209d"
+hash = "8c400824e9a308fe87e5f61445c19b85bd7f8a5fd9bda2dbd2fa7324579e0164"
 metafile = true
 
 [[files]]
@@ -402,7 +402,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafttweaker.pw.toml"
-hash = "031ba1af350f68756133650c3e70fb1273c15667b06e9438b0b4495ccba9dbd6"
+hash = "bf52436734de014ef98d387f42c00622fdbe5e6e526e41787909abda33383c70"
 metafile = true
 
 [[files]]
@@ -417,7 +417,7 @@ metafile = true
 
 [[files]]
 file = "mods/gtnhlib.pw.toml"
-hash = "516ddb8066ff8a56c2dee5fd8321549a37fc5c83fab6780c898b4ebf1f27f246"
+hash = "bb42a372d14b4d3ec3b70de06fc4611bd456ee1d65edae5657747d23c8ea9a11"
 metafile = true
 
 [[files]]
@@ -467,7 +467,7 @@ metafile = true
 
 [[files]]
 file = "mods/notenoughitems-gtnh.pw.toml"
-hash = "82b27b9c3c7a27ff39954ef2a2e1ba965372c03907297530c7551d1afde55495"
+hash = "a2fc13301e4c9bee524c9480d0c9cd2f8efa2b7d27343df9010454551148d215"
 metafile = true
 
 [[files]]
@@ -497,7 +497,7 @@ metafile = true
 
 [[files]]
 file = "mods/thaumictinkerer.pw.toml"
-hash = "dab50e7d090dde1457b8f2c7d0284a48d93251c84a45cd6a3c37073f16e231c2"
+hash = "88b39505c54e6450675a91d6d9192eed9f93ca96259406a02d905092bbe41b6b"
 metafile = true
 
 [[files]]
@@ -537,5 +537,13 @@ metafile = true
 
 [[files]]
 file = "mods/witcheryextras.pw.toml"
-hash = "cf5fc57e6acba9033e3c669832e0610c9161840f577729381a1ef0487ec9cd8b"
+hash = "7c139af068270ee7e8db703cf2900f5f6fabadb51861952f35e19e789fa9c7ca"
 metafile = true
+
+[[files]]
+file = "scripts/MineTweakerRecipeMaker.zs"
+hash = "cabb0d20dee04b3319ed4390e9b1190c6a40f75c08f37f0d2eb77a3b05fe8677"
+
+[[files]]
+file = "scripts/Minecraft.zs"
+hash = "fb322a532d4e7973dba1e4b1943f8e83b4e1b1b35945400d71e76c169161d6a8"

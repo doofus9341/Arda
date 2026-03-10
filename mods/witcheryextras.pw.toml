@@ -1,15 +1,15 @@
 name = "WitcheryExtras"
-filename = "WitcheryExtras-1.4.10-pre.jar"
+filename = "WitcheryExtras-1.4.11.jar"
 side = "both"
 
 [download]
-url = "https://github.com/GTNewHorizons/WitcheryExtras/releases/download/1.4.10-pre/WitcheryExtras-1.4.10-pre.jar"
+url = "https://github.com/GTNewHorizons/WitcheryExtras/releases/download/1.4.11/WitcheryExtras-1.4.11.jar"
 hash-format = "sha256"
-hash = "2a72e03902afe686680acbd01d66760bcf42bcac4c0f117853dba893572448ec"
+hash = "58b6ce92d6ec7852972845ffac99538fbe050eb5e925776c0abbd2e16fdafa18"
 
 [update]
 [update.github]
 branch = "master"
 regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
 slug = "GTNewHorizons/WitcheryExtras"
-tag = "1.4.10-pre"
+tag = "1.4.11"

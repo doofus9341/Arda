@@ -1,15 +1,15 @@
 name = "ThaumicTinkerer"
-filename = "ThaumicTinkerer-2.12.13.jar"
+filename = "ThaumicTinkerer-2.12.14.jar"
 side = "both"
 
 [download]
-url = "https://github.com/GTNewHorizons/ThaumicTinkerer/releases/download/2.12.13/ThaumicTinkerer-2.12.13.jar"
+url = "https://github.com/GTNewHorizons/ThaumicTinkerer/releases/download/2.12.14/ThaumicTinkerer-2.12.14.jar"
 hash-format = "sha256"
-hash = "ca786220ee46dd878f77f2b5fae5ca50113b1209b6813d0b46fb2fe07bf5a11c"
+hash = "ee116b9b0a7d2baa2f85a4a76f9d0dba05f73f0ab5741e15222a7aeaa7feb5dc"
 
 [update]
 [update.github]
 branch = "master"
 regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
 slug = "GTNewHorizons/ThaumicTinkerer"
-tag = "2.12.13"
+tag = "2.12.14"
