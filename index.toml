@@ -54,11 +54,11 @@ hash = "d9fdbfc6801ab54525ed39bc5353f3e0a60465c4272ad9f0a0030d7d869960de"
 
 [[files]]
 file = "config/AntiIDConflict/enchantements/AllIDs.txt"
-hash = "c3c21747e073d839611c61de411f13b8af9fd2687679afb66c175272ab1a3d69"
+hash = "b7a7438e5dfe5c0e54365a78d3af71604637e7b929fd5d81e29072e4bc76bfd9"
 
 [[files]]
 file = "config/AntiIDConflict/enchantements/avaibleIDs.txt"
-hash = "ca8567b1becf714ff54b2d1f784eb476e90a326e52e7b533051135fe6fefee3c"
+hash = "29c50091236cd02e13561def1f15ac25c830833314ac5f073c30ea0b6ac4e773"
 
 [[files]]
 file = "config/AntiIDConflict/enchantements/main.cfg"
@@ -66,7 +66,7 @@ hash = "cb371c0d08c662f67972435b7985e8e6ba66acc2119ef10a59034fc67d909cd9"
 
 [[files]]
 file = "config/AntiIDConflict/enchantements/occupiedIDs.txt"
-hash = "366775ff2f941afb46fdecdac8ee57bc30749cb0ad469c52cade0c3901046ea7"
+hash = "dac057c3352abc438f46592bf9c79478976702abeaf6e999d722442b1af9d803"
 
 [[files]]
 file = "config/AntiIDConflict/entities/AllIDs.txt"
@@ -149,6 +149,10 @@ file = "config/MineTweaker3.cfg"
 hash = "c92da1657e9c5552c602a65625ab5df36e11d59847eef8d44eefd4e4c9aff1f5"
 
 [[files]]
+file = "config/Morpheus.cfg"
+hash = "7fb132078d78461a9dde309797c85302c48eb378e6c8b8dc1030e1505d2248b4"
+
+[[files]]
 file = "config/MouseTweaks.cfg"
 hash = "657be07f3297867af2e5c764e8536f35c76b734463ce72b8cbe2a7828505c66d"
 
@@ -209,6 +213,18 @@ file = "config/NEID.cfg"
 hash = "79dc2fcfa7f62444924bb66466aa3777ec8908acc143324ea799345826c12df9"
 
 [[files]]
+file = "config/OpenBlocks.cfg"
+hash = "ac0164525d2f6546f4db0663bdb9fa0aec70d0612904c2d2f2af9f495a6c6cd3"
+
+[[files]]
+file = "config/OpenMods.cfg"
+hash = "fcb18f440341353234b5cb3e7f5e1fdb3835da8790466be9218add7d748cac12"
+
+[[files]]
+file = "config/OpenModsLibCore.json"
+hash = "88977c3843e9b36fbf454c22c2e866aeb6685b8d5123840c69c88c66044544a3"
+
+[[files]]
 file = "config/RandomThings.cfg"
 hash = "39e981e5db7ae686dabe2793ab9ff29a10c59d92d74bfed8bc59cc08dde8624f"
 
@@ -242,11 +258,11 @@ hash = "05153533afec0f857adc2c527d95172080d232a651e0600ca578ca24c07fa0fb"
 
 [[files]]
 file = "config/UniqueNames.txt"
-hash = "e0d3170252cc75c3e1ec8f712625731b4ba6e186289b7db5dfc48f01cb6f0f8e"
+hash = "d02baeb965d54c6c71198772ca0e5b4f01b790472c95a62011abad7760c2c614"
 
 [[files]]
 file = "config/Waila.cfg"
-hash = "4fe3375ad09b98b2f5c01282dac968ca1a694f6609b790289dece884f423b0a8"
+hash = "cfb6fdd0e1ecc8e906ade5a654b37fec670eb9dbd339d39cffdc8661ec8bcca6"
 
 [[files]]
 file = "config/WitcheryExtras/asm.cfg"
@@ -278,7 +294,7 @@ hash = "ff04840c5f3b1c74b11cab3cdf259e64d27505831837736d14df5a7a30f80921"
 
 [[files]]
 file = "config/lotr.cfg"
-hash = "eb458cbe657380d8dcd76686bf813d6369157af5c33484f7571c79c0015d5c2e"
+hash = "ea3ae31dd0f2546eef42f46ae1307f963f75c45ba041eecb3c67ca3f012f57fc"
 
 [[files]]
 file = "config/mcpatcherforge.cfg"
@@ -456,6 +472,11 @@ hash = "4daccaa1d6308827ee6cae0bdb73accd081611c9431e69877a542bc07e75f13f"
 metafile = true
 
 [[files]]
+file = "mods/morpheus.pw.toml"
+hash = "35a7ab035b8194036d2b4ebefc2ec5cd6dfc8913aab9eb984cf54df39df26d1d"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "249a426c0e7b86b0fb22be99c328e2db9ece689561018257b3fa6f03927defca"
 metafile = true
@@ -468,6 +489,16 @@ metafile = true
 [[files]]
 file = "mods/notenoughitems-gtnh.pw.toml"
 hash = "a2fc13301e4c9bee524c9480d0c9cd2f8efa2b7d27343df9010454551148d215"
+metafile = true
+
+[[files]]
+file = "mods/openblocks.pw.toml"
+hash = "295dbebf441719598e4bccdb6f0c23cf34e1dc94464f1517e0e1007c24030c5e"
+metafile = true
+
+[[files]]
+file = "mods/openmodslib.pw.toml"
+hash = "88228e57a4fa45d05005fc05df0902ae603f70b348557deb2a2bea9e3549b74d"
 metafile = true
 
 [[files]]
