@@ -38,11 +38,11 @@ hash = "2092b0a2b0abd09815ccea71a83b9dbd38f89c81ccce55691d2ef70b56bd3e06"
 
 [[files]]
 file = "config/AntiIDConflict/dimensions/AllIDs.txt"
-hash = "a1c2cc22acb2a6471e3da5eb554a19d989978cd00c57bbbb258e3865ef3f4ca6"
+hash = "98ce11af5669c86e23dc7bacd0e5fa163c643a0d816e032b91187358a577dd4f"
 
 [[files]]
 file = "config/AntiIDConflict/dimensions/avaibleIDs.txt"
-hash = "2815303ac6dfb3a7e52b1b503035d013664835ba1eda3eaf287be53f664ffc5c"
+hash = "49a0557fbb72860bebca4a9e3247fed2aa4fc6ff4014c8b68370dc0401230b12"
 
 [[files]]
 file = "config/AntiIDConflict/dimensions/main.cfg"
@@ -50,7 +50,7 @@ hash = "97bbcfa8beaecb50690f530283dea81da4edf7eac8d8b65801a98f2dc4546c76"
 
 [[files]]
 file = "config/AntiIDConflict/dimensions/occupiedIDs.txt"
-hash = "d9fdbfc6801ab54525ed39bc5353f3e0a60465c4272ad9f0a0030d7d869960de"
+hash = "d97ecc58917d819a1f996f4a612d45c4379f620ade119a52c6f3b0e490fdaac4"
 
 [[files]]
 file = "config/AntiIDConflict/enchantements/AllIDs.txt"
@@ -105,6 +105,10 @@ file = "config/AntiIDConflict/potions/occupiedIDs.txt"
 hash = "1677a6b7b33067e08de140c480c1496a5feff6bc19110e107830e50d01ac339b"
 
 [[files]]
+file = "config/Automagy.cfg"
+hash = "a55fdb02ad1065ee0a29f79c5c3184cb40b6b52b38a318af17e39b72801f2ca0"
+
+[[files]]
 file = "config/Backpack.cfg"
 hash = "beab2d422256337858def2afa13903a09ed6c1d04327f25307632edbf6843de6"
 
@@ -119,6 +123,10 @@ hash = "ef31ec25c4a92a465120159145cebd732e7f462a0dd0930b171bce69ab8d413f"
 [[files]]
 file = "config/ComputerCraft.cfg"
 hash = "ab9e453ec7a282991a9405ed34331d9fd378023211454b293d7835441ed36047"
+
+[[files]]
+file = "config/ExtraUtilities.cfg"
+hash = "f776c03940a8abbb65727a6d80aa48e6ecb8deff6a6704f350894aecfc268ec6"
 
 [[files]]
 file = "config/InvTweaks.cfg"
@@ -141,6 +149,10 @@ file = "config/JABBA.cfg"
 hash = "3969d3e8ba36b644e812951c2644ccade3012b079a147c0dcc4b2e8ddced1cf4"
 
 [[files]]
+file = "config/LLOverlayReloaded.cfg"
+hash = "8c5f0d1bac79a05b403c4fd3568388d62bd41fdd4dd947ee53fe0c7c934607b3"
+
+[[files]]
 file = "config/LOTR_EntityRegistry.txt"
 hash = "f90351b9198dd83a5377e0347cc351acc5fe1e0301229647cbc07e07a8af7707"
 
@@ -158,7 +170,7 @@ hash = "657be07f3297867af2e5c764e8536f35c76b734463ce72b8cbe2a7828505c66d"
 
 [[files]]
 file = "config/NEI/client.cfg"
-hash = "ffdb016efd1a3624bde83e113df9c969d1979e58db80523e461798405b41eaf6"
+hash = "1a0f287da13b1cd969e04f6de8e4c19e4161f089eb9a47d2313f695e3165d70b"
 
 [[files]]
 file = "config/NEI/collapsibleitems.cfg"
@@ -258,15 +270,27 @@ hash = "05153533afec0f857adc2c527d95172080d232a651e0600ca578ca24c07fa0fb"
 
 [[files]]
 file = "config/UniqueNames.txt"
-hash = "d02baeb965d54c6c71198772ca0e5b4f01b790472c95a62011abad7760c2c614"
+hash = "58aa17f8aca5d279a7b4566bd470eb0219a5db681671949a41ae4740072d93d4"
 
 [[files]]
 file = "config/Waila.cfg"
-hash = "cfb6fdd0e1ecc8e906ade5a654b37fec670eb9dbd339d39cffdc8661ec8bcca6"
+hash = "2b81391563a54949c68557f4404520c5a724c77609fbb39bf1ed9ffd5d8c4188"
 
 [[files]]
 file = "config/WitcheryExtras/asm.cfg"
 hash = "4f4f183950faa6655a8e6618e2273301a5b877449f545e43e47f75853054d0cb"
+
+[[files]]
+file = "config/aroma1997/Aroma1997Core.cfg"
+hash = "2a3ba28dfb0c3d40979278ece3b0f6c3ce01e9606b84f6a63fa6e2626d813bbe"
+
+[[files]]
+file = "config/aroma1997/AromaBackup.cfg"
+hash = "7c1e6fb9e270185688b205ced2f6dedbf1d93500fe8a5acec24f2ca22cab76dc"
+
+[[files]]
+file = "config/aroma1997/AromaBackupRecovery.cfg"
+hash = "9f6d3c1dd724cd25540b171b665be028b492e53b1ca96fd600ef8fb068cc08af"
 
 [[files]]
 file = "config/bspkrsCore.cfg"
@@ -353,6 +377,10 @@ file = "config/wizardry.cfg"
 hash = "d8f0e576d8ff59b64d7bafcade16f3818d87653f9b18249e1964ed2824d825e6"
 
 [[files]]
+file = "config/xreliquary.cfg"
+hash = "49ea06b41347250b080909ba0aacd97a1592380b0d2df00af16523cee811ef9a"
+
+[[files]]
 file = "journeymap/config/5.2/journeymap.core.config"
 hash = "65d85f0d79285d48e6f61b7a6e3160b0e3a8d82b86635fed025f369795de6c47"
 
@@ -387,18 +415,33 @@ hash = "470f5f965e1777fbeaad498d184ca09701dfcdec23621dcc6c60f4edf3a2bffd"
 metafile = true
 
 [[files]]
+file = "mods/aroma1997core.pw.toml"
+hash = "237338ce33a51c3c71a704d2114d197cda1d5559d5b917355509eaaba79b4134"
+metafile = true
+
+[[files]]
+file = "mods/aromabackup.pw.toml"
+hash = "bae76665b3c31c817cefc60d050526a99231135a9171b39c3751266ec17bfd29"
+metafile = true
+
+[[files]]
 file = "mods/ars-magica-2.pw.toml"
 hash = "7cfa8bfdd183fccea0bb433d85fa0fd0973afedd4c011aa931f2cc3617c54f53"
 metafile = true
 
 [[files]]
+file = "mods/automagy.pw.toml"
+hash = "d2ef0245eac12bb25282309c4f9f594a8898d0535cc9d17315a19de5de23d197"
+metafile = true
+
+[[files]]
 file = "mods/baubles.pw.toml"
-hash = "dcaa054cc8de3b6b10f4e7b35b1079e90983765348559761b0d357f8f5177856"
+hash = "282fee7d170fbdcbcad4de92dd3a14547d7a9236bc72d8c21c185088cc871cea"
 metafile = true
 
 [[files]]
 file = "mods/bspkrscore.pw.toml"
-hash = "4f817806167f7b13e933b98928a698b9db0a8337af286d03c98ea13a8662a7b8"
+hash = "b3ac6117cac55ce3d045238a15db0b69c25722d6d5c6ba1d70bde6bc3b1b9d5d"
 metafile = true
 
 [[files]]
@@ -427,13 +470,18 @@ hash = "57c1070e9dd0f5576e4cdc1bb5bea593991de6a54b044ef793315d5c2f1c0f6d"
 metafile = true
 
 [[files]]
+file = "mods/extra-utilities.pw.toml"
+hash = "39b88923de98b9746b389a2ddbf728a4448b5e5b6ccce8b23d926096bd115627"
+metafile = true
+
+[[files]]
 file = "mods/forge-backpacks.pw.toml"
 hash = "12159b39a053a12e5781af4ac1f4967b26b0107c9a006f0a553a00bf6f70fd18"
 metafile = true
 
 [[files]]
 file = "mods/gtnhlib.pw.toml"
-hash = "bb42a372d14b4d3ec3b70de06fc4611bd456ee1d65edae5657747d23c8ea9a11"
+hash = "4004c99f19e16bd91618c8e844662c8b3cf27f672748721fb310209948407055"
 metafile = true
 
 [[files]]
@@ -459,6 +507,11 @@ metafile = true
 [[files]]
 file = "mods/journeymap.pw.toml"
 hash = "b9d8d5fe7ffcae44789420fc91cf07c291d12b4d1a4cb111792bfc24c3c5c5ac"
+metafile = true
+
+[[files]]
+file = "mods/light-level-overlay-reloaded.pw.toml"
+hash = "11ee45362c81d8660d7e85004182fec3acd59483cecda274480356f3a622eaa0"
 metafile = true
 
 [[files]]
@@ -504,6 +557,11 @@ metafile = true
 [[files]]
 file = "mods/random-things.pw.toml"
 hash = "f29717f7ce683382cdf389d88b8a5700ef3573f708a2c7a24a52d40b1c22c505"
+metafile = true
+
+[[files]]
+file = "mods/reliquary-reincarnations.pw.toml"
+hash = "4d105cdecdedc3811eabb4f927a197a9e64bfde21a498bf0fcfee5d8e66931a0"
 metafile = true
 
 [[files]]

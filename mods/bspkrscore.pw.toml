@@ -1,5 +1,5 @@
 name = "bspkrsCore"
-filename = "[1.7.10]bspkrsCore-universal-6.16.jar"
+filename = "1.7.10/[1.7.10]bspkrsCore-universal-6.16.jar"
 side = "both"
 
 [download]
