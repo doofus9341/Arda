@@ -535,6 +535,11 @@ hash = "249a426c0e7b86b0fb22be99c328e2db9ece689561018257b3fa6f03927defca"
 metafile = true
 
 [[files]]
+file = "mods/netherportalfix.pw.toml"
+hash = "8d3060a92228264b9fda7216ece3965f1e2faa63ee3c33e9a26cbe2ce42adf81"
+metafile = true
+
+[[files]]
 file = "mods/notenoughids-unofficial-1-7-10.pw.toml"
 hash = "43b6a1bc89728fb35fd5ec2027949d9bcbcfefdb8cc4758b49dcf92fe82ff74d"
 metafile = true
