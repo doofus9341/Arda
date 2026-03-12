@@ -1,0 +1,61 @@
+# In this file, modpack creators can define config options that should NOT get overridden by modpack updates.
+# The values for these options will be restored to what they were before the pack update.
+# The format is the following: FILE/CATEGORY/TYPE:NAME (the TYPE: is optional)
+# If the config file is inside a sub-directory, encase the path inside square brackets, ex. [eirairc/shared.cfg]
+# Categories and sub-categories are split by periods, ex. general.subcategory
+# The type is a single-character just like Forge's configuration type prefix: B, I, S, D; for lists, append <> to the type character
+# Full Example #1: trashslot.cfg/general/trashSlotX
+# Full Example #2: [eirairc/client.cfg]/notifications/notificationSoundVolume
+# Also see the localconfig-example.txt for a collection of presets for commonly used mods.
+
+# Aroma1997Core
+[aroma1997/Aroma1997Core.cfg]/sound/muffleSounds
+[aroma1997/Aroma1997Core.cfg]/sound/soundsToMuffle
+
+# AromaBackup
+[aroma1997/AromaBackup.cfg]/general/compressionRate
+[aroma1997/AromaBackup.cfg]/general/delay
+[aroma1997/AromaBackup.cfg]/general/keep
+[aroma1997/AromaBackup.cfg]/general/location
+[aroma1997/AromaBackup.cfg]/general/onShutdown
+[aroma1997/AromaBackup.cfg]/general/onStartup
+
+# Chisel
+Chisel.cfg/client/*
+
+# CodeChickenCore
+CodeChickenCore.cfg/tweaks/replaceLavaFX $format=simple
+CodeChickenCore.cfg/tweaks/replaceWaterFX $format=simple
+
+# ExtraUtilities
+ExtraUtilities.cfg/client_options/*
+
+# InventoryTweaks
+InvTweaks.cfg//* $format=simple
+!InvTweaks.cfg//enableServerItemSwap $format=simple
+
+# NEI
+[NEI/client.cfg]/*/* $format=simple
+
+# ThaumCraft
+Thaumcraft.cfg/general/color_blind
+Thaumcraft.cfg/general/crooked
+Thaumcraft.cfg/general/display_aspects
+Thaumcraft.cfg/general/glowing_taint
+Thaumcraft.cfg/general/shaders
+
+# Thaumic Tinkerer
+ThaumicTinkerer.cfg/general/tooltipIndicators.enabled
+
+# Tinkers Construct
+TinkersConstruct.cfg/looks/"Connected Textures Enabled"
+
+# Waila
+Waila.cfg/general/*
+Waila.cfg/modules/*
+
+# Witchery
+witchery.cfg/general/GUIOnLeft
+witchery.cfg/general/HUDShowVampireTargetBloodText
+witchery.cfg/general/MantrapOpacity
+witchery.cfg/general/Render3dGlintEffect

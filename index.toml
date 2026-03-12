@@ -166,7 +166,7 @@ hash = "7fb132078d78461a9dde309797c85302c48eb378e6c8b8dc1030e1505d2248b4"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
-hash = "657be07f3297867af2e5c764e8536f35c76b734463ce72b8cbe2a7828505c66d"
+hash = "414a4779bd3fd1b61ea3de6a8247707dc4d95cb939711635869954edb6874c3c"
 
 [[files]]
 file = "config/NEI/client.cfg"
@@ -301,6 +301,18 @@ file = "config/chisel.cfg"
 hash = "566fe6966f0c4bed175a1a46042ef693db45995e8143d973b1febb3fa4b9f180"
 
 [[files]]
+file = "config/defaultkeys.txt"
+hash = "eeb9eb03291556f416960d21c564e686c77ae66d7429232792fee31f8519b14a"
+
+[[files]]
+file = "config/defaultoptions.txt"
+hash = "5e1042ba497d4faa94d6b6598da3037537a1485b0e381a73d7db4af5714d65a1"
+
+[[files]]
+file = "config/fodc.cfg"
+hash = "c7d1031041817173ec6fd208bfc10cb75c7156d55073c302932fdad2cb1d0b9b"
+
+[[files]]
 file = "config/forge.cfg"
 hash = "56acf28c2653e1d5d159648edbbbd9bc86832bd956a8a4e7be7adf7c558a5c7e"
 
@@ -315,6 +327,10 @@ hash = "dba677d2c31c2a72fda676cdf04aec4cd50f250fe43b7a1eb57753b1bfdb5c5c"
 [[files]]
 file = "config/gtnhlib.cfg"
 hash = "ff04840c5f3b1c74b11cab3cdf259e64d27505831837736d14df5a7a30f80921"
+
+[[files]]
+file = "config/localconfig.txt"
+hash = "546f51c582658eaa503094abfe1d403a9d111adc2461dee2422d365c2e75d6aa"
 
 [[files]]
 file = "config/lotr.cfg"
@@ -337,6 +353,14 @@ file = "config/mixingasm/transformer_inclusion_list_default.txt"
 hash = "e837dc092b502c353910c2ca44befe0965cdb8af28edc15bfe7e5ff8bef6f19c"
 
 [[files]]
+file = "config/neirecipehandlers.cfg"
+hash = "d98086d56c276af56d52d092756ceac59f7a1014b492e34183e7a72b4689e3bc"
+
+[[files]]
+file = "config/recipehandler.cfg"
+hash = "4cf7b4285375f8f231b9885cecf2e5d9c2430d9cdec5b866299652608c7899ed"
+
+[[files]]
 file = "config/shaders.properties"
 hash = "07cbfdae3d7d402df0ece61aee378a860345908824b754d1bb80b4bca09f34b4"
 
@@ -347,6 +371,10 @@ hash = "34b4aeb750be9b09739a089402a289c1b8241c45e38a33604cf0c2f2f45d7e8e"
 [[files]]
 file = "config/tc4tweak.cfg"
 hash = "dcea8706d7686d91b70aa6950cc8ab5d7db0239ee564e7f2836fd930603ffddf"
+
+[[files]]
+file = "config/thaumcraftneiplugin.cfg"
+hash = "eb1645862895fde7569b92671e2eb75484dbb70bc5c21d64ddbcb2ccc47444f5"
 
 [[files]]
 file = "config/unimixins.properties"
@@ -465,6 +493,11 @@ hash = "bf52436734de014ef98d387f42c00622fdbe5e6e526e41787909abda33383c70"
 metafile = true
 
 [[files]]
+file = "mods/default-options.pw.toml"
+hash = "65df980aed0c03bcfba27e21f26dbf14491542928061c8b72467d5999fee2bf6"
+metafile = true
+
+[[files]]
 file = "mods/electroblobs-wizardry.pw.toml"
 hash = "57c1070e9dd0f5576e4cdc1bb5bea593991de6a54b044ef793315d5c2f1c0f6d"
 metafile = true
@@ -535,6 +568,16 @@ hash = "249a426c0e7b86b0fb22be99c328e2db9ece689561018257b3fa6f03927defca"
 metafile = true
 
 [[files]]
+file = "mods/nei-lotr.pw.toml"
+hash = "0b3cb5371b08cfd85377b1d2df8d1e1e3d745092a7007a87203fc33f78e94131"
+metafile = true
+
+[[files]]
+file = "mods/nei-recipe-handlers.pw.toml"
+hash = "791016914d647286be542a67f0b09cd80adc9bfd49ef0fc14225f260dc579227"
+metafile = true
+
+[[files]]
 file = "mods/netherportalfix.pw.toml"
 hash = "8d3060a92228264b9fda7216ece3965f1e2faa63ee3c33e9a26cbe2ce42adf81"
 metafile = true
@@ -560,8 +603,18 @@ hash = "88228e57a4fa45d05005fc05df0902ae603f70b348557deb2a2bea9e3549b74d"
 metafile = true
 
 [[files]]
+file = "mods/oredictionaryconverter.pw.toml"
+hash = "fab1b974137f86e5e6916b5e1044c62fd3a6b939b2578f1e884ba0fbdf2e3bf9"
+metafile = true
+
+[[files]]
 file = "mods/random-things.pw.toml"
 hash = "f29717f7ce683382cdf389d88b8a5700ef3573f708a2c7a24a52d40b1c22c505"
+metafile = true
+
+[[files]]
+file = "mods/recipeconflict-fixer.pw.toml"
+hash = "d3f64b3f895ca83c881668beef4a213ff2c1e114a7de24343fd934f778169f34"
 metafile = true
 
 [[files]]
@@ -577,6 +630,11 @@ metafile = true
 [[files]]
 file = "mods/thaumcraft-inventory-scanning.pw.toml"
 hash = "143713d7d920db4f018fd9f1bc71f183822cbd06009cac5e8878e7d922e7c1fa"
+metafile = true
+
+[[files]]
+file = "mods/thaumcraft-nei-plugin.pw.toml"
+hash = "feeea1b47f99a8a8535de0d56f9de89192eb2405da4a8ad7e1369fa26849c083"
 metafile = true
 
 [[files]]
@@ -633,6 +691,10 @@ metafile = true
 file = "mods/witcheryextras.pw.toml"
 hash = "7c139af068270ee7e8db703cf2900f5f6fabadb51861952f35e19e789fa9c7ca"
 metafile = true
+
+[[files]]
+file = "scripts/LOTRMod.zs"
+hash = "0069596ba1e6e5137d6b354227d3f0d0a9ae30f0b7e344515ba7d887d58eab58"
 
 [[files]]
 file = "scripts/MineTweakerRecipeMaker.zs"
