@@ -105,6 +105,10 @@ file = "config/AntiIDConflict/potions/occupiedIDs.txt"
 hash = "1677a6b7b33067e08de140c480c1496a5feff6bc19110e107830e50d01ac339b"
 
 [[files]]
+file = "config/ArchimedesShipsPlus.cfg"
+hash = "9a1fbfc17e1afb247713544c275159a30ff8d5ee3b4d8340671db159cb3127dd"
+
+[[files]]
 file = "config/Automagy.cfg"
 hash = "a55fdb02ad1065ee0a29f79c5c3184cb40b6b52b38a318af17e39b72801f2ca0"
 
@@ -166,7 +170,19 @@ hash = "7fb132078d78461a9dde309797c85302c48eb378e6c8b8dc1030e1505d2248b4"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
-hash = "414a4779bd3fd1b61ea3de6a8247707dc4d95cb939711635869954edb6874c3c"
+hash = "04556bca67f8a6887f160bd6617bfe0102bf495560b8499b2325ffd19c424fae"
+
+[[files]]
+file = "config/MovingWorld/Main.cfg"
+hash = "1289d34ce889f5a45a6d8c3713734cf7048fd6ec43d8edc909cfc571440dcfb9"
+
+[[files]]
+file = "config/MovingWorld/MetaRotation/archimedesships.mrot"
+hash = "8d7df237c54ae8efe1a0a69b8da85c42296fd46d9f015efc855834da607a7d9c"
+
+[[files]]
+file = "config/MovingWorld/MetaRotation/vanilla.mrot"
+hash = "3d0a03a5cf2f055d4fa3e083f234cd9d44872e461f2eaa8ea67707440258dc29"
 
 [[files]]
 file = "config/NEI/client.cfg"
@@ -270,11 +286,11 @@ hash = "05153533afec0f857adc2c527d95172080d232a651e0600ca578ca24c07fa0fb"
 
 [[files]]
 file = "config/UniqueNames.txt"
-hash = "58aa17f8aca5d279a7b4566bd470eb0219a5db681671949a41ae4740072d93d4"
+hash = "15ff2373759563d3a4b613593bede5222c09170ed7e83b25eac47a4adca02c7e"
 
 [[files]]
 file = "config/Waila.cfg"
-hash = "2b81391563a54949c68557f4404520c5a724c77609fbb39bf1ed9ffd5d8c4188"
+hash = "cbc25343dea20b0ce7ad9ee31724ae2840816aa55f41a28622e292ec27c4feba"
 
 [[files]]
 file = "config/WitcheryExtras/asm.cfg"
@@ -286,7 +302,7 @@ hash = "2a3ba28dfb0c3d40979278ece3b0f6c3ce01e9606b84f6a63fa6e2626d813bbe"
 
 [[files]]
 file = "config/aroma1997/AromaBackup.cfg"
-hash = "7c1e6fb9e270185688b205ced2f6dedbf1d93500fe8a5acec24f2ca22cab76dc"
+hash = "e90606182d9717ada3cfe78f4ef96ac5c529d8ce1d1af48e66f34db0dc529cc7"
 
 [[files]]
 file = "config/aroma1997/AromaBackupRecovery.cfg"
@@ -307,6 +323,10 @@ hash = "eeb9eb03291556f416960d21c564e686c77ae66d7429232792fee31f8519b14a"
 [[files]]
 file = "config/defaultoptions.txt"
 hash = "5e1042ba497d4faa94d6b6598da3037537a1485b0e381a73d7db4af5714d65a1"
+
+[[files]]
+file = "config/fastcraft.ini"
+hash = "2198a3f5c2e856767a74bdc64196427fbbb7bcfec2ad0b134c5f3c106ca1cd46"
 
 [[files]]
 file = "config/fodc.cfg"
@@ -371,6 +391,10 @@ hash = "34b4aeb750be9b09739a089402a289c1b8241c45e38a33604cf0c2f2f45d7e8e"
 [[files]]
 file = "config/tc4tweak.cfg"
 hash = "dcea8706d7686d91b70aa6950cc8ab5d7db0239ee564e7f2836fd930603ffddf"
+
+[[files]]
+file = "config/tcneiadditions.cfg"
+hash = "35f65a5dc5c2512d750028b93fb541f43a81b3d269380744203b12e97943ff7e"
 
 [[files]]
 file = "config/thaumcraftneiplugin.cfg"
@@ -493,6 +517,11 @@ hash = "bf52436734de014ef98d387f42c00622fdbe5e6e526e41787909abda33383c70"
 metafile = true
 
 [[files]]
+file = "mods/davincis-vessels.pw.toml"
+hash = "51137dc2711471b6e6e06477f4dd2a6ae3f0d8e895389ee51c37d977a830a009"
+metafile = true
+
+[[files]]
 file = "mods/default-options.pw.toml"
 hash = "65df980aed0c03bcfba27e21f26dbf14491542928061c8b72467d5999fee2bf6"
 metafile = true
@@ -508,13 +537,18 @@ hash = "39b88923de98b9746b389a2ddbf728a4448b5e5b6ccce8b23d926096bd115627"
 metafile = true
 
 [[files]]
+file = "mods/fastcraft.pw.toml"
+hash = "422af561be79850d7b301261b133bfc8ddcf7eab4c9d2e3934ded3f6fa72bf58"
+metafile = true
+
+[[files]]
 file = "mods/forge-backpacks.pw.toml"
 hash = "12159b39a053a12e5781af4ac1f4967b26b0107c9a006f0a553a00bf6f70fd18"
 metafile = true
 
 [[files]]
 file = "mods/gtnhlib.pw.toml"
-hash = "4004c99f19e16bd91618c8e844662c8b3cf27f672748721fb310209948407055"
+hash = "79be6f40aeae8857f4f319edebd8f894eebcb13b85cd07b036bc7497351fe249"
 metafile = true
 
 [[files]]
@@ -568,6 +602,11 @@ hash = "249a426c0e7b86b0fb22be99c328e2db9ece689561018257b3fa6f03927defca"
 metafile = true
 
 [[files]]
+file = "mods/movingworld.pw.toml"
+hash = "ea8546524be4a4526836551acc6a8fdcb0dc32f5dc6fd0ba135318911bb2473c"
+metafile = true
+
+[[files]]
 file = "mods/nei-lotr.pw.toml"
 hash = "0b3cb5371b08cfd85377b1d2df8d1e1e3d745092a7007a87203fc33f78e94131"
 metafile = true
@@ -589,7 +628,7 @@ metafile = true
 
 [[files]]
 file = "mods/notenoughitems-gtnh.pw.toml"
-hash = "a2fc13301e4c9bee524c9480d0c9cd2f8efa2b7d27343df9010454551148d215"
+hash = "a24f3f0ffb8a6c04cae1c46e83e10b436d18c384fab4ac40a75e394bd2ae5442"
 metafile = true
 
 [[files]]
@@ -624,7 +663,12 @@ metafile = true
 
 [[files]]
 file = "mods/tc4tweaks.pw.toml"
-hash = "3b5ab4a0d072888afb084cade9cbff4e21fd18df7053a3f1ee81c8bc05443d7f"
+hash = "34b1972888edca7f7eda956d4c4a0295787732009a8b46e4032d443c05fb5a28"
+metafile = true
+
+[[files]]
+file = "mods/tcneiadditions.pw.toml"
+hash = "3b7aa0b0dba45d4ba0fc1c504600631af2b750d4f81b7c1c2a8548ed20fd5f02"
 metafile = true
 
 [[files]]
@@ -634,7 +678,7 @@ metafile = true
 
 [[files]]
 file = "mods/thaumcraft-nei-plugin.pw.toml"
-hash = "feeea1b47f99a8a8535de0d56f9de89192eb2405da4a8ad7e1369fa26849c083"
+hash = "f753f59a399e3dc7e7d9c1884965b32f2ccf5cce394dd0918ac7e9ab1029e787"
 metafile = true
 
 [[files]]
@@ -644,12 +688,12 @@ metafile = true
 
 [[files]]
 file = "mods/thaumic-exploration.pw.toml"
-hash = "eb840456a5e68373c1c60b8542aac28dfdc9c0ca5768b978017576c976b03ecf"
+hash = "cf7891bd3b36c7daaec649976499deb83e03188768962ca814e235e7502aa15a"
 metafile = true
 
 [[files]]
 file = "mods/thaumictinkerer.pw.toml"
-hash = "88b39505c54e6450675a91d6d9192eed9f93ca96259406a02d905092bbe41b6b"
+hash = "2c904473dd51b3bd6ee0b91cf2be1cc9bb8df832fa750282d53a8d104eb18e38"
 metafile = true
 
 [[files]]

@@ -1,6 +1,6 @@
 name = "Thaumcraft NEI Plugin"
 filename = "thaumcraftneiplugin-1.7.10-1.7a.jar"
-side = "client"
+side = "both"
 
 [download]
 hash-format = "sha1"
