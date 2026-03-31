@@ -54,11 +54,11 @@ hash = "d97ecc58917d819a1f996f4a612d45c4379f620ade119a52c6f3b0e490fdaac4"
 
 [[files]]
 file = "config/AntiIDConflict/enchantements/AllIDs.txt"
-hash = "b7a7438e5dfe5c0e54365a78d3af71604637e7b929fd5d81e29072e4bc76bfd9"
+hash = "b1e03a2ac0066560ee25dcdfaf076d229073b8ca4c8af6a06ab6c6235154e704"
 
 [[files]]
 file = "config/AntiIDConflict/enchantements/avaibleIDs.txt"
-hash = "29c50091236cd02e13561def1f15ac25c830833314ac5f073c30ea0b6ac4e773"
+hash = "33a9b528dec160c1b875b9255d7086e119dabe928a16c7d953a8593bf609730a"
 
 [[files]]
 file = "config/AntiIDConflict/enchantements/main.cfg"
@@ -66,7 +66,7 @@ hash = "cb371c0d08c662f67972435b7985e8e6ba66acc2119ef10a59034fc67d909cd9"
 
 [[files]]
 file = "config/AntiIDConflict/enchantements/occupiedIDs.txt"
-hash = "dac057c3352abc438f46592bf9c79478976702abeaf6e999d722442b1af9d803"
+hash = "8a8e0f6258cb39974d52e4b81e7306759f0dc1d5ce43f749a697b1364d09bcd4"
 
 [[files]]
 file = "config/AntiIDConflict/entities/AllIDs.txt"
@@ -130,7 +130,11 @@ hash = "ab9e453ec7a282991a9405ed34331d9fd378023211454b293d7835441ed36047"
 
 [[files]]
 file = "config/ExtraUtilities.cfg"
-hash = "f776c03940a8abbb65727a6d80aa48e6ecb8deff6a6704f350894aecfc268ec6"
+hash = "b8009c82fb3d0bdf71898510fe304349f1bb45a0dc1fc4b62c7314424dae575c"
+
+[[files]]
+file = "config/ForgeRelocation.cfg"
+hash = "8ebdaaadb9e3fa5d8762fc86ee6347e61be12564a9262c0eb29dba4a2aab63f7"
 
 [[files]]
 file = "config/InvTweaks.cfg"
@@ -161,6 +165,10 @@ file = "config/LOTR_EntityRegistry.txt"
 hash = "f90351b9198dd83a5377e0347cc351acc5fe1e0301229647cbc07e07a8af7707"
 
 [[files]]
+file = "config/MCFrames.cfg"
+hash = "8f46833caa31f23f2e02c9389cb19a0942945501d822eca3a63384d377c78823"
+
+[[files]]
 file = "config/MineTweaker3.cfg"
 hash = "c92da1657e9c5552c602a65625ab5df36e11d59847eef8d44eefd4e4c9aff1f5"
 
@@ -185,8 +193,12 @@ file = "config/MovingWorld/MetaRotation/vanilla.mrot"
 hash = "3d0a03a5cf2f055d4fa3e083f234cd9d44872e461f2eaa8ea67707440258dc29"
 
 [[files]]
+file = "config/MrTJPCore.cfg"
+hash = "b08ce6882a21a2ec535dbcf476e42965dddcd97683ff597e4697706fcd38783a"
+
+[[files]]
 file = "config/NEI/client.cfg"
-hash = "1a0f287da13b1cd969e04f6de8e4c19e4161f089eb9a47d2313f695e3165d70b"
+hash = "06f38dd6c0e598434318b5b9e3f9beab3cd54662e90ccea65c80641b563e5027"
 
 [[files]]
 file = "config/NEI/collapsibleitems.cfg"
@@ -253,6 +265,10 @@ file = "config/OpenModsLibCore.json"
 hash = "88977c3843e9b36fbf454c22c2e866aeb6685b8d5123840c69c88c66044544a3"
 
 [[files]]
+file = "config/ProjectRed.cfg"
+hash = "0fbb71d63bf4dbf01f232219d48bfb52fac356d6bad46859b55aee4574829483"
+
+[[files]]
 file = "config/RandomThings.cfg"
 hash = "39e981e5db7ae686dabe2793ab9ff29a10c59d92d74bfed8bc59cc08dde8624f"
 
@@ -286,11 +302,11 @@ hash = "05153533afec0f857adc2c527d95172080d232a651e0600ca578ca24c07fa0fb"
 
 [[files]]
 file = "config/UniqueNames.txt"
-hash = "15ff2373759563d3a4b613593bede5222c09170ed7e83b25eac47a4adca02c7e"
+hash = "3b4f1c5ebbd58b80c68f838c1bbd98ff1a44cb044c5d8944ac1afc1e6bdf8648"
 
 [[files]]
 file = "config/Waila.cfg"
-hash = "cbc25343dea20b0ce7ad9ee31724ae2840816aa55f41a28622e292ec27c4feba"
+hash = "f9016aae188ec68fa02fa41653062748ec58b49f0c413695a4db8adc6611e7a2"
 
 [[files]]
 file = "config/WitcheryExtras/asm.cfg"
@@ -315,6 +331,10 @@ hash = "89c1eb7793b385533c6b6cbcd516470f15119c38c48089a56c9f8c421f9d8d72"
 [[files]]
 file = "config/chisel.cfg"
 hash = "566fe6966f0c4bed175a1a46042ef693db45995e8143d973b1febb3fa4b9f180"
+
+[[files]]
+file = "config/claysoldiers.cfg"
+hash = "5e2cb452fcbc20f78d495882397fc50787322af3757eca8cd2945a2086898ba2"
 
 [[files]]
 file = "config/defaultkeys.txt"
@@ -346,7 +366,7 @@ hash = "dba677d2c31c2a72fda676cdf04aec4cd50f250fe43b7a1eb57753b1bfdb5c5c"
 
 [[files]]
 file = "config/gtnhlib.cfg"
-hash = "ff04840c5f3b1c74b11cab3cdf259e64d27505831837736d14df5a7a30f80921"
+hash = "968642dfa5ef32384503005e702c8d3fbb4bc433a9661f9d111d56c30d9f122f"
 
 [[files]]
 file = "config/localconfig.txt"
@@ -361,6 +381,10 @@ file = "config/mcpatcherforge.cfg"
 hash = "e961e8e09faf94cf330106f7fbe02a73d0151554ad17bb63c0c6f2d70f5c502a"
 
 [[files]]
+file = "config/microblocks.cfg"
+hash = "b90a381d5c8cc61c802b67270f4b072bca1681199148ed4dbf1bf25a29954021"
+
+[[files]]
 file = "config/mixingasm/transformer_exclusion_list.txt"
 hash = "261c3c0fd863923371aad3676766d81c0bfc2a527b88e479166dfd59efaed3af"
 
@@ -373,12 +397,20 @@ file = "config/mixingasm/transformer_inclusion_list_default.txt"
 hash = "e837dc092b502c353910c2ca44befe0965cdb8af28edc15bfe7e5ff8bef6f19c"
 
 [[files]]
+file = "config/multipart.cfg"
+hash = "d68830bf49e1acd78ec7be5a4f59f842f96044d095f9e5521daba3af7088f9b5"
+
+[[files]]
 file = "config/neirecipehandlers.cfg"
 hash = "d98086d56c276af56d52d092756ceac59f7a1014b492e34183e7a72b4689e3bc"
 
 [[files]]
 file = "config/recipehandler.cfg"
 hash = "4cf7b4285375f8f231b9885cecf2e5d9c2430d9cdec5b866299652608c7899ed"
+
+[[files]]
+file = "config/sapmanpack.cfg"
+hash = "d958591f95d982cf3c123d4cf725c0171fcc39b4a241d2fef8fa83e486482915"
 
 [[files]]
 file = "config/shaders.properties"
@@ -414,7 +446,7 @@ hash = "a48b6edfb46c0a08b88ad7f9178f557ebb294cb9d2c7a1e12bbf4a96452abad7"
 
 [[files]]
 file = "config/veinminer/tools-and-blocks.json"
-hash = "22b969d55d585fb27e2ae1f6c1abd0edb07a10f621e65c8c97bb6153c2db8824"
+hash = "ec5ab06c723d60235809fb0aa5141daf42a4ae9de3eae940b40530a03e141403"
 
 [[files]]
 file = "config/witchery.cfg"
@@ -426,7 +458,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/wizardry.cfg"
-hash = "d8f0e576d8ff59b64d7bafcade16f3818d87653f9b18249e1964ed2824d825e6"
+hash = "5dbbe3064b8ec4d5b37d9e68defafa4d6284260895e937e989fd056646546816"
 
 [[files]]
 file = "config/xreliquary.cfg"
@@ -502,6 +534,11 @@ hash = "e05e261e4b7eae159f1deff4b9b436bcdfab8ee9f875d6dcf7f44764c136ea09"
 metafile = true
 
 [[files]]
+file = "mods/clay-soldiers-mod.pw.toml"
+hash = "11ca06f3c10541bbb923878925fd1d08bdf1b594bf878a1f63b123346b3125e2"
+metafile = true
+
+[[files]]
 file = "mods/codechickencore-unofficial.pw.toml"
 hash = "8c400824e9a308fe87e5f61445c19b85bd7f8a5fd9bda2dbd2fa7324579e0164"
 metafile = true
@@ -547,8 +584,18 @@ hash = "12159b39a053a12e5781af4ac1f4967b26b0107c9a006f0a553a00bf6f70fd18"
 metafile = true
 
 [[files]]
+file = "mods/forgemultipart.pw.toml"
+hash = "736db109cb4059d664c41ee6ec8e301c85379899394822ad7e5188c171f78bac"
+metafile = true
+
+[[files]]
+file = "mods/forgerelocation.pw.toml"
+hash = "121b1fa1a31f533acd54741b1a5f0ed322fa3d10e1d72cd244c7f469ab8d4cf8"
+metafile = true
+
+[[files]]
 file = "mods/gtnhlib.pw.toml"
-hash = "79be6f40aeae8857f4f319edebd8f894eebcb13b85cd07b036bc7497351fe249"
+hash = "d601c30fedacd179d90f68f2aacbb7d9fdbadf7541e8647599e6bde2b64f9311"
 metafile = true
 
 [[files]]
@@ -569,6 +616,11 @@ metafile = true
 [[files]]
 file = "mods/jabba.pw.toml"
 hash = "83833eaa0e5d4e07daad73dbe8c3d0cef3785c8fdd87089a563dc768247ea5d9"
+metafile = true
+
+[[files]]
+file = "mods/jarjar.pw.toml"
+hash = "2e01ddbcc293b173bdab9f850adff09de2ec59d99893731266429523cf7867ed"
 metafile = true
 
 [[files]]
@@ -607,6 +659,11 @@ hash = "ea8546524be4a4526836551acc6a8fdcb0dc32f5dc6fd0ba135318911bb2473c"
 metafile = true
 
 [[files]]
+file = "mods/mrtjpcore.pw.toml"
+hash = "579c817ff56028677db5a15c72b6c347bae8e738d683c65dfc6b5a9ad110fb89"
+metafile = true
+
+[[files]]
 file = "mods/nei-lotr.pw.toml"
 hash = "0b3cb5371b08cfd85377b1d2df8d1e1e3d745092a7007a87203fc33f78e94131"
 metafile = true
@@ -628,7 +685,7 @@ metafile = true
 
 [[files]]
 file = "mods/notenoughitems-gtnh.pw.toml"
-hash = "a24f3f0ffb8a6c04cae1c46e83e10b436d18c384fab4ac40a75e394bd2ae5442"
+hash = "9931ef89ea7f0012d0678820c8f27de2d6be8106a41930a87a5cc26af838c57b"
 metafile = true
 
 [[files]]
@@ -647,6 +704,11 @@ hash = "fab1b974137f86e5e6916b5e1044c62fd3a6b939b2578f1e884ba0fbdf2e3bf9"
 metafile = true
 
 [[files]]
+file = "mods/projectred.pw.toml"
+hash = "03985948a5062415b0f7c66fe4744729f4ec3f8c2cf3a7f52320f2bc5aa96997"
+metafile = true
+
+[[files]]
 file = "mods/random-things.pw.toml"
 hash = "f29717f7ce683382cdf389d88b8a5700ef3573f708a2c7a24a52d40b1c22c505"
 metafile = true
@@ -659,6 +721,16 @@ metafile = true
 [[files]]
 file = "mods/reliquary-reincarnations.pw.toml"
 hash = "4d105cdecdedc3811eabb4f927a197a9e64bfde21a498bf0fcfee5d8e66931a0"
+metafile = true
+
+[[files]]
+file = "mods/retrofuturabootstrap.pw.toml"
+hash = "811f78dc254549fec880389f31444525ae6226b8fa3c0d27ef22a3ab89ca04b0"
+metafile = true
+
+[[files]]
+file = "mods/sanandreasps-manager-pack.pw.toml"
+hash = "64b659d725344d44728efa3bbe4b0fe9a8a81c9a3336be65829646980b74efad"
 metafile = true
 
 [[files]]
@@ -688,12 +760,12 @@ metafile = true
 
 [[files]]
 file = "mods/thaumic-exploration.pw.toml"
-hash = "cf7891bd3b36c7daaec649976499deb83e03188768962ca814e235e7502aa15a"
+hash = "f8f28547d30206204389c9b1711eec941949feb07ac385bd96bf5dbc3bbb785b"
 metafile = true
 
 [[files]]
 file = "mods/thaumictinkerer.pw.toml"
-hash = "2c904473dd51b3bd6ee0b91cf2be1cc9bb8df832fa750282d53a8d104eb18e38"
+hash = "761a44692a127c1d31b557e01f5cc7402a21d04d2748d3c26662d8d9da94c743"
 metafile = true
 
 [[files]]

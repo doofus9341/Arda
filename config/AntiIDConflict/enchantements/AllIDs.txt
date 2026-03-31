@@ -78,7 +78,7 @@
 77 is Occupied by: enchantment.binding (flaxbeard.thaumicexploration.enchantment.EnchantmentBinding)
 78 is Occupied by: enchantment.nightVision (flaxbeard.thaumicexploration.enchantment.EnchantmentNightVision)
 79 is Occupied by: enchantment.disarm (flaxbeard.thaumicexploration.enchantment.EnchantmentDisarm)
-80 is Avaible
+80 is Occupied by: enchantment.projectred.expansion.fuel_efficiency (mrtjp.projectred.expansion.EnchantmentFuelEfficiency)
 81 is Avaible
 82 is Avaible
 83 is Avaible

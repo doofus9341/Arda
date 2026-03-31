@@ -52,7 +52,6 @@ List of avaible enchantement ids:
 74
 75
 76
-80
 81
 82
 83

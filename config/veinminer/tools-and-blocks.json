@@ -76,6 +76,13 @@
         "minecraft:wooden_pickaxe"
       ],
       "blocklist": [
+        "ProjRed|Exploration:projectred.exploration.ore/0",
+        "ProjRed|Exploration:projectred.exploration.ore/1",
+        "ProjRed|Exploration:projectred.exploration.ore/2",
+        "ProjRed|Exploration:projectred.exploration.ore/3",
+        "ProjRed|Exploration:projectred.exploration.ore/4",
+        "ProjRed|Exploration:projectred.exploration.ore/5",
+        "ProjRed|Exploration:projectred.exploration.ore/6",
         "TConstruct:GravelOre/0",
         "TConstruct:GravelOre/1",
         "TConstruct:GravelOre/2",

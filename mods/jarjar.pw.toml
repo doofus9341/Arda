@@ -1,0 +1,15 @@
+name = "JarJar"
+filename = "jarjar-0.2.5-beta.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/JarJar/releases/download/0.2.5-beta/jarjar-0.2.5-beta.jar"
+hash-format = "sha256"
+hash = "4e580a386e4048b463139e903610491d7019562e2236ded633b29a21326755d7"
+
+[update]
+[update.github]
+branch = "master"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "GTNewHorizons/JarJar"
+tag = "0.2.5-beta"

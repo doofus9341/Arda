@@ -1,0 +1,13 @@
+name = "SanAndreasP's Manager Pack"
+filename = "SAPManPack-1.7.10-2.7.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "827787d3c9c1341fb2555da88ad58cae2d19c06f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2655156
+project-id = 226994

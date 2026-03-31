@@ -1,0 +1,15 @@
+name = "RetroFuturaBootstrap"
+filename = "RetroFuturaBootstrap-1.0.16.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/RetroFuturaBootstrap/releases/download/1.0.16/RetroFuturaBootstrap-1.0.16.jar"
+hash-format = "sha256"
+hash = "f30f63183a91153899563e990e108484d591a329d1becf569181c3080968134b"
+
+[update]
+[update.github]
+branch = "master"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources|-javadoc)\\.jar"
+slug = "GTNewHorizons/RetroFuturaBootstrap"
+tag = "1.0.16"
