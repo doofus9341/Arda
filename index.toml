@@ -10,7 +10,7 @@ hash = "40e057232b232a006faa6c0548713d4a39e3041e9d230f9fb7849ce2fd694b42"
 
 [[files]]
 file = "config/AM2/AM2.cfg"
-hash = "aad9c9cfb55429554b9ca786aa66ddd30e4ca6719dcff17e32f41d819e5fa240"
+hash = "886e2902c47626431ee3df18f5eb238f3093db876e0cbbceba4c95df6a3fb1b9"
 
 [[files]]
 file = "config/AM2/SkillConf.cfg"
@@ -338,11 +338,11 @@ hash = "5e2cb452fcbc20f78d495882397fc50787322af3757eca8cd2945a2086898ba2"
 
 [[files]]
 file = "config/defaultkeys.txt"
-hash = "eeb9eb03291556f416960d21c564e686c77ae66d7429232792fee31f8519b14a"
+hash = "3bbf1bcd2d552cef2b19e7639d0d795e9ab6eb60b8d874743c8d5d931a03d9eb"
 
 [[files]]
 file = "config/defaultoptions.txt"
-hash = "5e1042ba497d4faa94d6b6598da3037537a1485b0e381a73d7db4af5714d65a1"
+hash = "1c4760ac3f6fa6f02a44aee878126029e58d8380cc7cc644302a62b8c39a6252"
 
 [[files]]
 file = "config/fastcraft.ini"
@@ -370,11 +370,11 @@ hash = "968642dfa5ef32384503005e702c8d3fbb4bc433a9661f9d111d56c30d9f122f"
 
 [[files]]
 file = "config/localconfig.txt"
-hash = "546f51c582658eaa503094abfe1d403a9d111adc2461dee2422d365c2e75d6aa"
+hash = "4b8803a58d505bbf18dc2243138a99ddbb68bc6d18b5e401eda523499744d092"
 
 [[files]]
 file = "config/lotr.cfg"
-hash = "ea3ae31dd0f2546eef42f46ae1307f963f75c45ba041eecb3c67ca3f012f57fc"
+hash = "fd568273ec3d66b4f3bd66e6b725038b7136f7f0168f0128938ab365eb509a96"
 
 [[files]]
 file = "config/mcpatcherforge.cfg"
@@ -595,7 +595,7 @@ metafile = true
 
 [[files]]
 file = "mods/gtnhlib.pw.toml"
-hash = "d601c30fedacd179d90f68f2aacbb7d9fdbadf7541e8647599e6bde2b64f9311"
+hash = "835fc1cb27c268b3784360f47d016b8bcecf4a0d648485b087e8ce053a1e0831"
 metafile = true
 
 [[files]]
@@ -685,7 +685,7 @@ metafile = true
 
 [[files]]
 file = "mods/notenoughitems-gtnh.pw.toml"
-hash = "9931ef89ea7f0012d0678820c8f27de2d6be8106a41930a87a5cc26af838c57b"
+hash = "ed4a4bbbedf704e307829dfab76fb1ea08df8a498f7cdbf684ea1c1a8be954f4"
 metafile = true
 
 [[files]]

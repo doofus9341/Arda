@@ -8,6 +8,9 @@
 # Full Example #2: [eirairc/client.cfg]/notifications/notificationSoundVolume
 # Also see the localconfig-example.txt for a collection of presets for commonly used mods.
 
+# Ars Magica 2
+[AM2/AM2.cfg]/guis/*
+
 # Aroma1997Core
 [aroma1997/Aroma1997Core.cfg]/sound/muffleSounds
 [aroma1997/Aroma1997Core.cfg]/sound/soundsToMuffle
