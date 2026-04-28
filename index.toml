@@ -374,7 +374,7 @@ hash = "4b8803a58d505bbf18dc2243138a99ddbb68bc6d18b5e401eda523499744d092"
 
 [[files]]
 file = "config/lotr.cfg"
-hash = "fd568273ec3d66b4f3bd66e6b725038b7136f7f0168f0128938ab365eb509a96"
+hash = "6adf11f21b58a46d2c2e8f794dcf5cb0ded537864d0bd2ef3c77cf72781f0665"
 
 [[files]]
 file = "config/mcpatcherforge.cfg"
@@ -585,17 +585,17 @@ metafile = true
 
 [[files]]
 file = "mods/forgemultipart.pw.toml"
-hash = "736db109cb4059d664c41ee6ec8e301c85379899394822ad7e5188c171f78bac"
+hash = "f49ae4ce35759555a38f8f8a205624a94acecf3cb1844c194c56aa8ab810dd80"
 metafile = true
 
 [[files]]
 file = "mods/forgerelocation.pw.toml"
-hash = "121b1fa1a31f533acd54741b1a5f0ed322fa3d10e1d72cd244c7f469ab8d4cf8"
+hash = "c27ca747be19295d8940d156ec708e0d7fbd091476ff6e014ea1f0fc0baf9d1e"
 metafile = true
 
 [[files]]
 file = "mods/gtnhlib.pw.toml"
-hash = "835fc1cb27c268b3784360f47d016b8bcecf4a0d648485b087e8ce053a1e0831"
+hash = "d8b6f2c823c7ce68048944d5747ebdb9266b74ad086abf7867d5a5f86641533d"
 metafile = true
 
 [[files]]
@@ -625,7 +625,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "b9d8d5fe7ffcae44789420fc91cf07c291d12b4d1a4cb111792bfc24c3c5c5ac"
+hash = "7a0660e2cda4d1d78ecffe3a5646f0965a90424731c21d46e7a3e6d17fa5ccc9"
 metafile = true
 
 [[files]]
@@ -660,7 +660,7 @@ metafile = true
 
 [[files]]
 file = "mods/mrtjpcore.pw.toml"
-hash = "579c817ff56028677db5a15c72b6c347bae8e738d683c65dfc6b5a9ad110fb89"
+hash = "19cca703a3bfb7f28a5187507e87bd199e514474d246d5e0b850019468dd8922"
 metafile = true
 
 [[files]]
@@ -680,12 +680,12 @@ metafile = true
 
 [[files]]
 file = "mods/notenoughids-unofficial-1-7-10.pw.toml"
-hash = "43b6a1bc89728fb35fd5ec2027949d9bcbcfefdb8cc4758b49dcf92fe82ff74d"
+hash = "47429919f15e59d4567b0315e6ec086728bed0cbaa14f7f5fa2be827d9d95afc"
 metafile = true
 
 [[files]]
 file = "mods/notenoughitems-gtnh.pw.toml"
-hash = "ed4a4bbbedf704e307829dfab76fb1ea08df8a498f7cdbf684ea1c1a8be954f4"
+hash = "06762e20ea23b35b7f150f3b24725e48fb47f0fe66ad9456937f942ffaf723cf"
 metafile = true
 
 [[files]]
@@ -705,7 +705,7 @@ metafile = true
 
 [[files]]
 file = "mods/projectred.pw.toml"
-hash = "03985948a5062415b0f7c66fe4744729f4ec3f8c2cf3a7f52320f2bc5aa96997"
+hash = "307c84033fe9de5004cb6cce8f14eff56362adea6ffa6c0a58b5dd89dc52d7a7"
 metafile = true
 
 [[files]]
@@ -765,7 +765,7 @@ metafile = true
 
 [[files]]
 file = "mods/thaumictinkerer.pw.toml"
-hash = "761a44692a127c1d31b557e01f5cc7402a21d04d2748d3c26662d8d9da94c743"
+hash = "d732ffd3509e6ac0879d9444d7a6e1755d06303fc3ae06171ea2eb728d1994d6"
 metafile = true
 
 [[files]]
@@ -785,7 +785,7 @@ metafile = true
 
 [[files]]
 file = "mods/unimixins.pw.toml"
-hash = "cc8898129ee51fd830b4d0675966d6893bf082864ab70126f06d4cd159112158"
+hash = "2cb73d0e114b1132088f60c4784f946a08e3c529ca6c29ada8105f34a895d5bd"
 metafile = true
 
 [[files]]
@@ -805,7 +805,7 @@ metafile = true
 
 [[files]]
 file = "mods/witcheryextras.pw.toml"
-hash = "7c139af068270ee7e8db703cf2900f5f6fabadb51861952f35e19e789fa9c7ca"
+hash = "687c2b3aac5f120e1dc0e46f208cd2a0a4a7a2b99a3c67019fecf6a79ce16ec9"
 metafile = true
 
 [[files]]
