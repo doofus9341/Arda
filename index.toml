@@ -469,28 +469,36 @@ file = "config/xreliquary.cfg"
 hash = "49ea06b41347250b080909ba0aacd97a1592380b0d2df00af16523cee811ef9a"
 
 [[files]]
-file = "journeymap/config/5.2/journeymap.core.config"
-hash = "65d85f0d79285d48e6f61b7a6e3160b0e3a8d82b86635fed025f369795de6c47"
+file = "journeymap/config/6.0/journeymap.core.config"
+hash = "4a338a9c54b88f13b2e6532950b970f859bb998d282eccd2f8ca91997fb07ccd"
 
 [[files]]
-file = "journeymap/config/5.2/journeymap.fullmap.config"
-hash = "7740a26444ed3a0a7130405aa919ba17602486c2e52873fc18b465f1283842ab"
+file = "journeymap/config/6.0/journeymap.fullmap.config"
+hash = "7b651b20316c7f5b966a0ffe53d6d4a2c8417a31f4e3266a1810cb94e8def4e4"
 
 [[files]]
-file = "journeymap/config/5.2/journeymap.minimap.config"
-hash = "8717fc07dd891dbe605268aaa79093a455505a29348b50ba1e2b430e4acc49d2"
+file = "journeymap/config/6.0/journeymap.minimap.config"
+hash = "e9437fda33b753c1cb96702d4a9a999f6d0ee11b3cd1110810d82896b4c14db6"
 
 [[files]]
-file = "journeymap/config/5.2/journeymap.minimap2.config"
-hash = "ac76c87ef669fcfca7ceb1025dc126aa853f2544e8905e8adca76dc3b60c4cd4"
+file = "journeymap/config/6.0/journeymap.minimap2.config"
+hash = "0b34d52088d711bd56fdc9101572a0ced8327d3c679b99f282b0a228ffdbcb78"
 
 [[files]]
-file = "journeymap/config/5.2/journeymap.waypoint.config"
-hash = "434a78c30b233a722e19145b6c0cf261855753fb4b18f2cae01b136e542af0a2"
+file = "journeymap/config/6.0/journeymap.rendering.config"
+hash = "031f879daadf9a995d2d4f5bea94e33efdd0d9911017151e546132fb3988f6be"
 
 [[files]]
-file = "journeymap/config/5.2/journeymap.webmap.config"
-hash = "cf13117959ad0d092ef903ede2c2ef451ddf698e4524848c26036bb7ff77bcf3"
+file = "journeymap/config/6.0/journeymap.topo.config"
+hash = "22336e50dca4c044ff4c58624826c54c85dca90b3e827e26b3a0b16206cbdcf2"
+
+[[files]]
+file = "journeymap/config/6.0/journeymap.waypoint.config"
+hash = "582be94baa873d3a93aecada2b558aadb2567202d914eec9c75fed3e642f1bb7"
+
+[[files]]
+file = "journeymap/config/6.0/journeymap.webmap.config"
+hash = "685024b8ec1caea803476b29ee4c04c06039071382c49df09334e231af6d51a3"
 
 [[files]]
 file = "mods/animationapi.pw.toml"
