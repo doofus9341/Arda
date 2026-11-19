@@ -22,7 +22,7 @@ hash = "1f077664fbd6587183b9ebaa6d5863f9f441ae7c6b3a0952fc017aba458a94d1"
 
 [[files]]
 file = "config/AntiIDConflict/biomes/avaibleIDs.txt"
-hash = "3dcd77d09473938d7f05a196b82b6b74da22aef7dbfe2daa6569b91f02fa0c15"
+hash = "bc0e16fae8b3d552797499b7ab32f684a9f3219154f433168b8405c414a258b4"
 
 [[files]]
 file = "config/AntiIDConflict/biomes/conflictedIDs.txt"
@@ -90,7 +90,7 @@ hash = "8d0324f0041cd44171e0ca141ee78620d824c6aec35258b87034a855e39fac69"
 
 [[files]]
 file = "config/AntiIDConflict/potions/avaibleIDs.txt"
-hash = "da55c196fc9240597b8c5c6d22435639b7a81ab983ef89f89387668c6dd8d99d"
+hash = "21fa0ce5dc144c3673eed4820b92c8968291063e59384650ce937fe9cddc8de4"
 
 [[files]]
 file = "config/AntiIDConflict/potions/conflictedIDs.txt"
