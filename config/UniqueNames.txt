@@ -1826,7 +1826,6 @@ ExtraUtilities:greenscreen
 ExtraUtilities:heatingElement
 ExtraUtilities:lawSword
 ExtraUtilities:magnumTorch
-ExtraUtilities:microblocks
 ExtraUtilities:mini-soul
 ExtraUtilities:nodeUpgrade
 ExtraUtilities:paintbrush
@@ -1876,6 +1875,7 @@ JABBA:upgradeStructural
 MCFrames:mcframes.frame
 MCFrames:mcframes.motor
 Mantle:mantleBook
+NotEnoughItems:neiFluidDisplay
 OpenBlocks:autoanvil
 OpenBlocks:autoenchantmenttable
 OpenBlocks:beartrap
@@ -2501,6 +2501,7 @@ ThaumicTinkerer:interface
 ThaumicTinkerer:kamiResource
 ThaumicTinkerer:magnet
 ThaumicTinkerer:mobAspect
+ThaumicTinkerer:mobDisplay
 ThaumicTinkerer:nitorGas
 ThaumicTinkerer:placementMirror
 ThaumicTinkerer:platform

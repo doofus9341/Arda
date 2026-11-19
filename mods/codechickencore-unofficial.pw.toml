@@ -1,13 +1,13 @@
 name = "CodeChickenCore Unofficial 1.7.10"
-filename = "CodeChickenCore-1.4.12.jar"
+filename = "CodeChickenCore-1.5.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "4f4a8cc50bcd043f2e81154ac4d578561d760751"
+hash = "e2bd21eb4a7c7d6a36eeda6ecb3ea2f71ec0fdd9"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7739565
+file-id = 9595214
 project-id = 746279

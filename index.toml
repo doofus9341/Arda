@@ -90,7 +90,7 @@ hash = "8d0324f0041cd44171e0ca141ee78620d824c6aec35258b87034a855e39fac69"
 
 [[files]]
 file = "config/AntiIDConflict/potions/avaibleIDs.txt"
-hash = "b8451cef5dc9367a8df7432900280f653d6640d8ba58f4f6291b227fe884e013"
+hash = "da55c196fc9240597b8c5c6d22435639b7a81ab983ef89f89387668c6dd8d99d"
 
 [[files]]
 file = "config/AntiIDConflict/potions/conflictedIDs.txt"
@@ -198,7 +198,7 @@ hash = "b08ce6882a21a2ec535dbcf476e42965dddcd97683ff597e4697706fcd38783a"
 
 [[files]]
 file = "config/NEI/client.cfg"
-hash = "06f38dd6c0e598434318b5b9e3f9beab3cd54662e90ccea65c80641b563e5027"
+hash = "54f6cbfba18a81dd883b9acac83d762684c65a9c356ca02301a0af3681a96b42"
 
 [[files]]
 file = "config/NEI/collapsibleitems.cfg"
@@ -266,7 +266,7 @@ hash = "88977c3843e9b36fbf454c22c2e866aeb6685b8d5123840c69c88c66044544a3"
 
 [[files]]
 file = "config/ProjectRed.cfg"
-hash = "0fbb71d63bf4dbf01f232219d48bfb52fac356d6bad46859b55aee4574829483"
+hash = "4d518c0c02c0b0187b7ff8574c0985d0b6b0a26f16e45f1688614ab976811ea0"
 
 [[files]]
 file = "config/RandomThings.cfg"
@@ -302,7 +302,7 @@ hash = "05153533afec0f857adc2c527d95172080d232a651e0600ca578ca24c07fa0fb"
 
 [[files]]
 file = "config/UniqueNames.txt"
-hash = "3b4f1c5ebbd58b80c68f838c1bbd98ff1a44cb044c5d8944ac1afc1e6bdf8648"
+hash = "312c33f5b7e8d3964ff2860608779b3bae200a8f59dc8bdb806c9c4a9a9ed021"
 
 [[files]]
 file = "config/Waila.cfg"
@@ -345,6 +345,10 @@ file = "config/defaultoptions.txt"
 hash = "1c4760ac3f6fa6f02a44aee878126029e58d8380cc7cc644302a62b8c39a6252"
 
 [[files]]
+file = "config/falsepatternlib-early.json"
+hash = "319e81be94da37114b477797a88f0b9998ccaca3ca22b80eb31d39c0a5d25a22"
+
+[[files]]
 file = "config/fastcraft.ini"
 hash = "2198a3f5c2e856767a74bdc64196427fbbb7bcfec2ad0b134c5f3c106ca1cd46"
 
@@ -362,11 +366,11 @@ hash = "ef4ca42f2810a1b5fef2d14fed9d7ef0bb5e1751b71966ec5c0e08addf3479f5"
 
 [[files]]
 file = "config/gtnhlib-number-formatting.cfg"
-hash = "dba677d2c31c2a72fda676cdf04aec4cd50f250fe43b7a1eb57753b1bfdb5c5c"
+hash = "6d3d14d90abd036f0cbfaa5252840b39d1a4bc185b227a721fb6daf5013b7fc2"
 
 [[files]]
 file = "config/gtnhlib.cfg"
-hash = "968642dfa5ef32384503005e702c8d3fbb4bc433a9661f9d111d56c30d9f122f"
+hash = "48226d7ea13e7adb99e2c3f8eeb9cb8e2196d9521a44d04888b3d4e30d73cffa"
 
 [[files]]
 file = "config/localconfig.txt"
@@ -505,7 +509,7 @@ metafile = true
 
 [[files]]
 file = "mods/aromabackup.pw.toml"
-hash = "bae76665b3c31c817cefc60d050526a99231135a9171b39c3751266ec17bfd29"
+hash = "1eb70eddac1b1d26b1a4521211c5e53cd0392f16b79808da28dff2be03c3de1f"
 metafile = true
 
 [[files]]
@@ -540,7 +544,7 @@ metafile = true
 
 [[files]]
 file = "mods/codechickencore-unofficial.pw.toml"
-hash = "8c400824e9a308fe87e5f61445c19b85bd7f8a5fd9bda2dbd2fa7324579e0164"
+hash = "f6fe3175b33793453effea3e6dbca6057193c36e0fd7c1c6cec0e4869fad0b2b"
 metafile = true
 
 [[files]]
@@ -585,17 +589,17 @@ metafile = true
 
 [[files]]
 file = "mods/forgemultipart.pw.toml"
-hash = "f49ae4ce35759555a38f8f8a205624a94acecf3cb1844c194c56aa8ab810dd80"
+hash = "1eb15dc42369523775e8b62799b961c2fb425b749b23b0b34075212957af80af"
 metafile = true
 
 [[files]]
 file = "mods/forgerelocation.pw.toml"
-hash = "c27ca747be19295d8940d156ec708e0d7fbd091476ff6e014ea1f0fc0baf9d1e"
+hash = "c1d3b049dc1c903cf17e5a746714779410df5a9b75461a0c1723059a4a347fe1"
 metafile = true
 
 [[files]]
 file = "mods/gtnhlib.pw.toml"
-hash = "d8b6f2c823c7ce68048944d5747ebdb9266b74ad086abf7867d5a5f86641533d"
+hash = "3eb7844adb19d91c62f2dee083c7a169cb880d451e20ee265e2c71e73b82f6d1"
 metafile = true
 
 [[files]]
@@ -625,7 +629,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "7a0660e2cda4d1d78ecffe3a5646f0965a90424731c21d46e7a3e6d17fa5ccc9"
+hash = "ef2ed7550246b67960a5e98b46c6e606535f3935eda3215bb35ee1ba58482070"
 metafile = true
 
 [[files]]
@@ -660,7 +664,7 @@ metafile = true
 
 [[files]]
 file = "mods/mrtjpcore.pw.toml"
-hash = "19cca703a3bfb7f28a5187507e87bd199e514474d246d5e0b850019468dd8922"
+hash = "0f99b2f603730ecff427843c78f801eedeafe7730187d938348ed6385bc426e8"
 metafile = true
 
 [[files]]
@@ -685,7 +689,7 @@ metafile = true
 
 [[files]]
 file = "mods/notenoughitems-gtnh.pw.toml"
-hash = "06762e20ea23b35b7f150f3b24725e48fb47f0fe66ad9456937f942ffaf723cf"
+hash = "cb89e49c6e33584a818d61a1c68b4cca399afbbe7ed23ccf79a116c883147d2b"
 metafile = true
 
 [[files]]
@@ -705,7 +709,7 @@ metafile = true
 
 [[files]]
 file = "mods/projectred.pw.toml"
-hash = "307c84033fe9de5004cb6cce8f14eff56362adea6ffa6c0a58b5dd89dc52d7a7"
+hash = "c5dd47bb7fb6efc18e57e1ed4d4fa4496eb61b37732eb1dcbc0be41149baa6b8"
 metafile = true
 
 [[files]]
@@ -725,7 +729,7 @@ metafile = true
 
 [[files]]
 file = "mods/retrofuturabootstrap.pw.toml"
-hash = "811f78dc254549fec880389f31444525ae6226b8fa3c0d27ef22a3ab89ca04b0"
+hash = "ae9f5e564dd78cec91f23a71092a66475157d4ccfe34d01cecf2b9ac7eaadbe2"
 metafile = true
 
 [[files]]
@@ -735,7 +739,7 @@ metafile = true
 
 [[files]]
 file = "mods/tc4tweaks.pw.toml"
-hash = "34b1972888edca7f7eda956d4c4a0295787732009a8b46e4032d443c05fb5a28"
+hash = "06f517609d8d9996653f56c1c47ff38cfff578ed482bf9c775f4c92d451847ad"
 metafile = true
 
 [[files]]
@@ -760,12 +764,12 @@ metafile = true
 
 [[files]]
 file = "mods/thaumic-exploration.pw.toml"
-hash = "f8f28547d30206204389c9b1711eec941949feb07ac385bd96bf5dbc3bbb785b"
+hash = "dbd01a8c8d5dbe36c3fac604d5afc2557b2a40020ad9a3c7b03a36770b57673a"
 metafile = true
 
 [[files]]
 file = "mods/thaumictinkerer.pw.toml"
-hash = "d732ffd3509e6ac0879d9444d7a6e1755d06303fc3ae06171ea2eb728d1994d6"
+hash = "c0d77c1e96cf728f1a7a0d615b13cf20d6c76e1022c9f206a987812bfe927a61"
 metafile = true
 
 [[files]]
@@ -785,7 +789,7 @@ metafile = true
 
 [[files]]
 file = "mods/unimixins.pw.toml"
-hash = "2cb73d0e114b1132088f60c4784f946a08e3c529ca6c29ada8105f34a895d5bd"
+hash = "204c32630a7e04731893128d323d9eba91dc4e74526c39f70d5c0c87f474ee3b"
 metafile = true
 
 [[files]]
@@ -805,7 +809,7 @@ metafile = true
 
 [[files]]
 file = "mods/witcheryextras.pw.toml"
-hash = "687c2b3aac5f120e1dc0e46f208cd2a0a4a7a2b99a3c67019fecf6a79ce16ec9"
+hash = "143065fb19f4a98874730ebe7ba3ae90343a6beb6b2a0e370da70150053ed20e"
 metafile = true
 
 [[files]]

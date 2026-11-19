@@ -1,6 +1,6 @@
 name = "AromaBackup"
 filename = "AromaBackup-1.7.10-0.1.0.0.jar"
-side = "both"
+side = "server"
 
 [download]
 hash-format = "sha1"

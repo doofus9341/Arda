@@ -1,15 +1,15 @@
 name = "MrTJPCore"
-filename = "MrTJPCore-1.3.6.jar"
+filename = "MrTJPCore-1.4.1.jar"
 side = "both"
 
 [download]
-url = "https://github.com/GTNewHorizons/MrTJPCore/releases/download/1.3.6/MrTJPCore-1.3.6.jar"
+url = "https://github.com/GTNewHorizons/MrTJPCore/releases/download/1.4.1/MrTJPCore-1.4.1.jar"
 hash-format = "sha256"
-hash = "61abeae6c67efe3a014d12dab1fc4c0b209ff113967339065e216dfb9b48b377"
+hash = "1db8c710ab0cdcb7aa4236fe483d68841fd5690d02a75fc978e1b45ca8b4de50"
 
 [update]
 [update.github]
 branch = "master"
 regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
 slug = "GTNewHorizons/MrTJPCore"
-tag = "1.3.6"
+tag = "1.4.1"
